@@ -10,7 +10,7 @@ id,keyword,location,text,target,mean
 14,,,"['emergency', 'evacuation', 'happen', 'building', 'across', 'street']",1,1
 15,,,"['afraid', 'tornado', 'come', 'area']",1,1
 16,,,"['three', 'people', 'die', 'heat', 'wave', 'far']",1,1
-17,,,"['haha', 'south', 'tampa', 'get', 'flood', 'hah', 'wait', 'second', 'live', 'south', 'tampa', 'gon', 'na', 'gon', 'na', 'fvck', 'flood']",1,1
+17,,,"['haha', 'south', 'tampa', 'get', 'flood', 'hah', 'wait', 'second', 'live', 'south', 'tampa', 'go', 'go', 'fvck', 'flood']",1,1
 18,,,"['rain', 'flood', 'florida', 'tampabay', 'tampa', 'day', 'lose', 'count']",1,1
 19,,,"['flood', 'bago', 'myanmar', 'arrive', 'bago']",1,1
 20,,,"['damage', 'school', 'bus', 'multi', 'car', 'crash', 'break']",1,1
@@ -131,7 +131,7 @@ id,keyword,location,text,target,mean
 197,airplane%20accident,Pennsylvania,"['strict', 'liability', 'context', 'airplane', 'accident', 'pilot', 'error', 'common', 'component', 'aviation', 'cr']",1,1
 198,airplane%20accident,"Salt Lake City, Utah","['lifetime', 'odds', 'die', 'airplane', 'accident']",0,0
 199,airplane%20accident,"Palo Alto, CA","['expert', 'france', 'begin', 'examine', 'airplane', 'debris', 'found', 'reunion', 'island', 'french', 'air', 'accident', 'expert', 'wedn']",1,1
-201,airplane%20accident,,"['awwww', 'airplane', 'accident', 'gon', 'na', 'die', 'cuties', 'good', 'job']",1,1
+201,airplane%20accident,,"['awwww', 'airplane', 'accident', 'go', 'die', 'cuties', 'good', 'job']",1,1
 203,airplane%20accident,"Spain but Opa-Locka, FL","['family', 'member', 'osama', 'bin', 'laden', 'die', 'airplane', 'accident', 'ironic', 'mhmmm', 'gov', 'shit', 'suspect']",1,1
 204,airplane%20accident,"Jaipur, India","['man', 'go', 'airplane', 'engine', 'accident', 'via']",1,1
 205,airplane%20accident,Hyderabad Telangana INDIA,"['horrible', 'accident', 'man', 'die', 'wing', 'airplane']",1,1
@@ -231,7 +231,7 @@ id,keyword,location,text,target,mean
 383,annihilation,Connecticut,"['current', 'nova', 'bookslast', 'checked', 'tie', 'book', 'rider', 'die', 'annihilation']",0,0
 386,annihilation,,"['please', 'sign', 'amp', 'rt', 'save', 'saltriverwildhorses']",0,0
 389,annihilation,,"['thanks', 'dante', 'join', 'follow', 'zone', 'johnny']",0,0
-396,apocalypse,ColoRADo,"['gon', 'na', 'fight', 'taylor', 'soon', 'get']",0,0
+396,apocalypse,ColoRADo,"['go', 'fight', 'taylor', 'soon', 'get']",0,0
 397,apocalypse,sindria,"['ohh', 'fukurodani', 'survive', 'apocalypse', 'bokuto', 'feel', 'horrible', 'poor', 'boy', 'ppor', 'child']",1,1
 398,apocalypse,,"['another', 'jocelyn', 'birthday', 'apocalypse']",0,0
 401,apocalypse,,"['rt', 'janenelson', 'rt', 'stephenscifi', 'adaptation', 'watch', 'charlie', 'human', 'apocalypse', 'optioned', 'film', 'sciencefiction']",0,0
@@ -272,9 +272,9 @@ id,keyword,location,text,target,mean
 453,armageddon,,"['red', 'faction', 'armageddon', 'microsoft', 'xbox', 'full', 'read', 'ebay']",0,0
 454,armageddon,Wrigley Field,"['already', 'know', 'shit', 'go', 'world', 'series', 'armageddon']",0,0
 455,armageddon,,"['rt', 'love', 'truelove', 'romance', 'lith', 'voodoo', 'seduction', 'astrology', 'rtrrt', 'lotz', 'apocalypse', 'armageddon', 'pla']",0,0
-456,armageddon,probably the strip club,"['im', 'gon', 'na', 'beat', 'armageddon', 'hsu', 'hao', 'get', 'flawless', 'first', 'try']",0,0
+456,armageddon,probably the strip club,"['im', 'go', 'beat', 'armageddon', 'hsu', 'hao', 'get', 'flawless', 'first', 'try']",0,0
 457,armageddon,Canada,"['ben', 'affleck', 'know', 'wife', 'kid', 'girl', 'help', 'love', 'since', 'armageddon', 'eonlinechat']",0,0
-459,armageddon,England,"['long', 'coat', 'hand', 'worn', 'certainty', 'armageddon', 'bear', 'sense', 'occasion']",0,0
+459,armageddon,England,"['would', 'long', 'coat', 'hand', 'would', 'worn', 'certainty', 'armageddon', 'bear', 'sense', 'occasion']",0,0
 461,armageddon,USA,"['phone', 'spy', 'hidden', 'back', 'door', 'nsa', 'data', 'mining', 'software', 'financial', 'armageddon', 'blog']",0,0
 462,armageddon,"California, United States","['pbban', 'temporary', 'hyider', 'ghost', 'kill', 'flag', 'fast', 'xp', 'reason']",1,1
 463,armageddon,,"['rt', 'love', 'truelove', 'romance', 'lith', 'voodoo', 'seduction', 'astrology', 'rtrrt', 'lotz', 'apocalypse', 'armageddon', 'planet']",0,0
@@ -393,7 +393,7 @@ id,keyword,location,text,target,mean
 665,attack,Bellevue NE,"['new', 'post', 'new', 'smb', 'relay', 'attack', 'steal', 'user', 'credential', 'internet']",1,1
 667,attack,"West Bank, Gaza Strip","['israeli', 'force', 'raid', 'home', 'allege', 'car', 'attack', 'suspect', 'palestine']",1,1
 669,attack,Û¢FLGÛ¢,"['heart', 'attack', 'thought', 'goat', 'dead', 'worry', 'rocket', 'okay']",0,0
-671,attack,,"['gon', 'na', 'lie', 'kinda', 'ready', 'attack', 'senior', 'year']",0,0
+671,attack,,"['go', 'lie', 'kinda', 'ready', 'attack', 'senior', 'year']",0,0
 672,attack,"Scotland, United Kingdom","['left', 'hand', 'side', 'diamond', 'graveyard', 'shift', 'attack', 'defend', 'right', 'handside', 'fuck', 'idiot']",0,0
 674,attack,,"['volleyball', 'attack', 'ii', 'volleyball', 'training', 'machine', 'set', 'simulation']",1,1
 675,attack,Online 24/7. Not even kidding.,"['notley', 'tactful', 'yet', 'direct', 'response', 'harper', 'attack', 'alberta', 'gov', 'hell', 'yeah', 'premier', 'ableg', 'cdnpoli']",1,1
@@ -436,7 +436,7 @@ id,keyword,location,text,target,mean
 752,avalanche,,"['colorado', 'avalanche', 'men', 'official', 'colorado', 'avalanche', 'reebok', 'shirt', 'xl', 'blue', 'cotton', 'nhl', 'hockey']",0,0
 753,avalanche,Score More Goals Buying @,"['tix', 'frozen', 'fury', 'xvii', 'los', 'angeles', 'king', 'avalanche', 'row', 'aa', 'mgm', 'grand']",0,0
 754,avalanche,NEW YORK,"['bet', 'didnt', 'know', 'kick', 'box']",0,0
-755,avalanche,Ireland,"['little', 'piece', 'write', 'avalanche', 'design', 'blog', 'appreciate', 'greatly', 'checked']",0,0
+755,avalanche,Ireland,"['little', 'piece', 'write', 'avalanche', 'design', 'blog', 'would', 'appreciate', 'greatly', 'checked']",0,0
 758,avalanche,,"['patrick', 'roy', 'upper', 'deck', 'spx', 'finite', 'make', 'colorado', 'avalanche', 'mint']",0,0
 759,avalanche,UK,"['musician', 'kalle', 'mattson', 'recreates', 'classic', 'album', 'cover', 'clever', 'music', 'video', 'avalanche']",0,0
 761,avalanche,"London, Kent & SE England.","['beautiful', 'sweet', 'avalanche', 'faith', 'akito', 'rose', 'lot', 'frothy', 'gyp', 'weddinghour']",0,0
@@ -603,7 +603,7 @@ id,keyword,location,text,target,mean
 1026,blazing,"Pennsylvania, PA","['still', 'know', 'hour', 'physical', 'activity', 'blazing', 'sun', 'sport']",0,0
 1029,bleeding,,"['way', 'archetype', 'bleeding', 'well', 'ground', 'readiness', 'fpoj']",0,0
 1031,bleeding,"Rockford, IL","['threw', 'chicken', 'nugget', 'sister', 'lip', 'bleeding']",0,0
-1032,bleeding,,"['could', 'slit', 'throat', 'apologize', 'bleeding']",0,0
+1032,bleeding,,"['could', 'slit', 'throat', 'would', 'apologize', 'bleeding']",0,0
 1035,bleeding,AZ,"['joe', 'landolina', 'gel', 'make', 'stop', 'bleeding', 'instantly', 'arizona', 'realestate']",0,0
 1036,bleeding,,"['nose', 'bleeding', 'last', 'one', 'like', 'year', 'ago']",0,0
 1037,bleeding,,"['bleeding', 'typewriter', 'day', 'far', 'write', 'bunch', 'gunk']",0,0
@@ -635,13 +635,13 @@ id,keyword,location,text,target,mean
 1074,bleeding,My heart is a ghost town!,"['ear', 'start', 'bleeding']",0,0
 1075,bleeding,The Great State of Texas,"['saw', 'pileup', 'tv', 'keep', 'race', 'even', 'bleeding']",1,1
 1077,bleeding,,"['rave', 'wedding', 'see', 'eye', 'bleeding']",0,0
-1078,bleeding,"Alicante, Valencia","['say', 'bad', 'thing', 'happen', 'reason', 'wise', 'word', 'gon', 'na', 'stop', 'te', 'bleeding']",0,0
+1078,bleeding,"Alicante, Valencia","['say', 'bad', 'thing', 'happen', 'reason', 'wise', 'word', 'go', 'stop', 'te', 'bleeding']",0,0
 1079,blew%20up,,"['yo', 'timeline', 'blew', 'damn', 'fast']",0,0
 1080,blew%20up,Atlanta,"['go', 'look', 'blew', 'atomic', 'bomb']",0,0
 1081,blew%20up,,"['blew', 'oomf', 'instagrams', 'cause', 'cute', 'active', 'follower']",0,0
 1082,blew%20up,"Greensboro, NC","['see', 'crazy', 'line', 'blew']",0,0
 1083,blew%20up, Indiana,"['instagram', 'blew', 'apparently', 'feature', 'jazz', 'tonight', 'cool', 'love']",0,0
-1084,blew%20up,the local dump,"['still', 'team', 'usagi', 'even', 'blew', 'entire', 'solar', 'system', 'airhead', 'misstep']",0,0
+1084,blew%20up,the local dump,"['would', 'still', 'team', 'usagi', 'even', 'blew', 'entire', 'solar', 'system', 'airhead', 'misstep']",0,0
 1085,blew%20up,,"['remember', 'like', 'blew', 'one', 'game', 'probs', 'king', 'cup']",1,1
 1088,blew%20up,,"['hate', 'people', 'tweet', 'receipt', 'know', 'wrong', 'wont', 'take', 'bc', 'blew', 'literally', 'gtfo', 'desperate']",0,0
 1090,blew%20up,,"['think', 'blew', 'notification', 'go', 'check', 'encourage', 'love']",0,0
@@ -674,7 +674,7 @@ id,keyword,location,text,target,mean
 1132,blight,Sydney,"['cycling', 'fan', 'feel', 'sorry', 'world', 'athletics', 'dope', 'blight', 'exacerbate', 'monetary', 'reward', 'lot', 'soul', 'search', 'require']",0,0
 1134,blight,,['blight'],0,0
 1136,blight,London,"['poor', 'jack']",0,0
-1138,blight,"Maryland, USA","['agree', 'knew', 'go', 'deep', 'road', 'found', 'blight', 'red', 'lyrium', 'yet', 'gt', 'gt']",0,0
+1138,blight,"Maryland, USA","['agree', 'knew', 'would', 'go', 'deep', 'road', 'found', 'blight', 'red', 'lyrium', 'yet', 'gt', 'gt']",0,0
 1139,blight,Daruka (near Tamworth) NSW,"['get', 'load', 'welfare', 'love', 'sponge', 'blight', 'society']",0,0
 1141,blight,"IJmuiden, The Netherlands","['new', 'post', 'prysmian', 'secures', 'contract', 'blight', 'bank', 'wind', 'farm']",0,0
 1142,blight,"University Heights, Ohio","['cleveland', 'height', 'shaker', 'height', 'fight', 'blight', 'house', 'next', 'door']",0,0
@@ -690,7 +690,7 @@ id,keyword,location,text,target,mean
 1157,blight,,"['apperception', 'bridgework', 'blight', 'xxhjesc']",0,0
 1160,blight,Laventillemoorings ,"['dotish', 'blight', 'car', 'go', 'right', 'ahead', 'mine']",0,0
 1162,blight,UK,"['sexual', 'revolution', 'blight', 'woman', 'story', 'via']",0,0
-1164,blight,Scotland,"['like', 'swear', 'secret', 'uncover', 'old', 'god', 'slumber', 'think', 'gon', 'na', 'another', 'blight']",0,0
+1164,blight,Scotland,"['like', 'swear', 'secret', 'uncover', 'old', 'god', 'slumber', 'think', 'go', 'another', 'blight']",0,0
 1166,blight,London,"['double', 'result', 'live', 'app']",0,0
 1167,blight,"Vancouver, BC","['first', 'zippoline', 'one', 'want', 'use', 'community', 'never', 'ask', 'blight', 'park', 'moveit']",0,0
 1168,blight,"Cleveland, OH","['look', 'policy', 'matter', 'ohio', 'report', 'cle', 'cuyahoga', 'county', 'blight', 'green', 'vacant', 'land', 'soon']",0,0
@@ -809,7 +809,7 @@ id,keyword,location,text,target,mean
 1328,bloody,"Santa Cruz, CA","['black', 'friday', 'turn', 'bloody', 'would', 'rather', 'shopping', 'mystery']",0,0
 1331,blown%20up,"Inverness, Nova Scotia","['someone', 'told', 'soccer', 'mom', 'get', 'pic', 'blown', 'put', 'daughter', 'bedroom', 'wall']",0,0
 1332,blown%20up,L/S/Z/L/T/H/C/H/R/A/S/C,"['mention', 'get', 'blown', 'choice', 'deactivate', 'leave', 'good', 'respect', 'choice']",0,0
-1334,blown%20up,Oklahoma,"['wow', 'wow', 'club', 'blown', 'money', 'fuck', 'player', 'like', 'pillory']",0,0
+1334,blown%20up,Oklahoma,"['wow', 'wow', 'club', 'blown', 'money', 'fuck', 'player', 'like', 'would', 'pillory']",0,0
 1335,blown%20up,"801 SL,UT","['damn', 'greinke', 'get', 'blown', 'first', 'inning']",0,0
 1337,blown%20up,,"['woke', 'blown', 'lol']",0,0
 1338,blown%20up,fluffy cloud,"['aunt', 'marge', 'blown', 'eheks']",0,0
@@ -907,7 +907,7 @@ id,keyword,location,text,target,mean
 1493,body%20bags,,"['know', 'hate', 'body', 'buy', 'bag', 'chip', 'variety', 'pack', 'fruit', 'snack', 'redbull', 'snack']",0,0
 1494,body%20bags,"washington, d.c.","['break', 'fairfax', 'county', 'firefighter', 'place', 'admin', 'leave', 'amid', 'probe', 'facebook', 'post', 'put', 'police', 'body', 'bag', 'dept', 'say']",0,0
 1495,body%20bags,United Kingdom,"['woman', 'buckle', 'casual', 'stylish', 'shoulder', 'handbag', 'pocket', 'cross', 'body', 'bag', 'white']",0,0
-1497,body%20bags,,"['attention', 'rchs', 'football', 'player', 'coffin', 'body', 'bag', 'locker', 'room', 'grab', 'one', 'tommorow', 'gon', 'na', 'die']",0,0
+1497,body%20bags,,"['attention', 'rchs', 'football', 'player', 'coffin', 'body', 'bag', 'locker', 'room', 'grab', 'one', 'tommorow', 'go', 'die']",0,0
 1498,body%20bags,,"['woman', 'flower', 'print', 'shoulder', 'handbag', 'cross', 'body', 'metal', 'chain', 'satchel', 'bag', 'blue']",0,0
 1499,body%20bags,,"['woman', 'cross', 'body', 'messenger', 'bag', 'clutch', 'small', 'shoulder', 'zipper', 'bag', 'white']",0,0
 1500,body%20bags,"WAISTDEEP, TX","['bring', 'body', 'bag', 'tho']",0,0
@@ -948,7 +948,7 @@ id,keyword,location,text,target,mean
 1546,bomb,ChicagoRObotz,"['jen', 'da', 'bomb', 'girl']",0,0
 1547,bomb,whs '17,"['happy', 'birthday', 'big', 'miss', 'girl', 'hope', 'bomb', 'one']",0,0
 1549,bomb,,"['umm', 'gun', 'stop', 'gunman', 'carry', 'bomb']",1,1
-1553,bomb,NV,"['bomb', 'guy']",0,0
+1553,bomb,NV,"['would', 'bomb', 'guy']",0,0
 1555,bomb,,"['hiroshima', 'mark', 'year', 'since', 'bomb']",1,1
 1556,bomb,Ireland,"['crew', 'enolagay', 'nuclear', 'bomb', 'board', 'disarm', 'min', 'hiroshima', 'get', 'ready', 'arm', 'little', 'boy']",1,1
 1558,bomb,,"['ahh', 'bomb', 'baby']",0,0
@@ -1087,7 +1087,7 @@ id,keyword,location,text,target,mean
 1776,buildings%20on%20fire,"Tulsa, Oklahoma","['multiple', 'building', 'fire', 'downtown', 'hinton']",1,1
 1779,buildings%20on%20fire,,"['building', 'fire', 'time', 'business', 'meeting', 'thestrain']",1,1
 1780,buildings%20on%20fire,"Auburn, AL","['ton', 'smoke', 'come', 'one', 'new', 'apartment', 'building', 'ross', 'auburn', 'several', 'fire', 'truck', 'scene']",1,1
-1784,buildings%20on%20fire,,"['square', 'let', 'booty', 'org', 'write', 'xv', 'im', 'sure', 'fine', 'building', 'around', 'set', 'fire']",0,0
+1784,buildings%20on%20fire,,"['square', 'let', 'booty', 'org', 'write', 'xv', 'im', 'sure', 'would', 'fine', 'building', 'around', 'set', 'fire']",0,0
 1786,buildings%20on%20fire,,"['smoke', 'detector', 'require', 'building', 'office', 'building', 'shevlin', 'hixon', 'drive', 'fire']",1,1
 1787,buildings%20on%20fire,taken by piper curda,"['someone', 'mention', 'gansey', 'fire', 'bust', 'brick', 'wall', 'seven', 'different', 'building']",1,1
 1789,buildings%20on%20fire,Toronto,"['beautiful', 'architecture', 'nyc', 'love', 'fire', 'escape', 'route', 'building', 'newyork']",1,1
@@ -1147,7 +1147,7 @@ id,keyword,location,text,target,mean
 1877,burning,Blogland,"['rain', 'outside', 'burning', 'favorite', 'candle', 'hot', 'cocoa', 'sip', 'nap', 'time', 'awesomesauce']",0,0
 1878,burning,mumbai,"['hermancranston', 'atk', 'letsfootball', 'rt', 'skanndtyagi', 'letsfootball', 'atk', 'wire', 'fire', 'burning']",0,0
 1880,burning,Isle of Man,"['sky', 'news', 'mandem', 'totteham', 'go', 'maddddd', 'burning', 'fed', 'car', 'dem', 'ting', 'dere']",1,1
-1881,burning,,"['think', 'like', 'burning', 'man', 'try', 'way', 'know']",0,0
+1881,burning,,"['think', 'would', 'like', 'burning', 'man', 'try', 'way', 'know']",0,0
 1882,burning,"Hampton Roads, VA","['minute', 'fat', 'burning', 'routine', 'also', 'really', 'fun', 'fat', 'weightless', 'fatburning', 'burnfat', 'skinny', 'workout']",0,0
 1883,burning,,"['bulletproof', 'black', 'like', 'funeral', 'world', 'around', 'burning', 'cold']",1,1
 1885,burning,Gameday,"['five', 'burning', 'question', 'chris', 'mullin', 'st', 'john', 'sjubb']",1,1
@@ -1197,7 +1197,7 @@ id,keyword,location,text,target,mean
 1955,burning%20buildings,a botanical garden probably,"['drew', 'storen', 'probably', 'cure', 'cancer', 'amp', 'save', 'puppy', 'burning', 'building', 'contemplate', 'deserve', 'disrespect']",0,0
 1956,burning%20buildings,,"['ah', 'yes', 'gay', 'totally', 'destroy', 'america', 'see', 'building', 'burning', 'meteor', 'crash', 'school', 'wow']",0,0
 1959,burning%20buildings,"Nelspruit, South Africa","['striker', 'phalaborwa', 'strike', 'chinese', 'take', 'job', 'striker', 'burning', 'building', 'attack', 'car']",1,1
-1960,burning%20buildings,midwest,"['firefighter', 'act', 'like', 'cop', 'drive', 'around', 'shoot', 'flamethrower', 'burning', 'building']",0,0
+1960,burning%20buildings,midwest,"['firefighter', 'act', 'like', 'cop', 'would', 'drive', 'around', 'shoot', 'flamethrower', 'burning', 'building']",0,0
 1961,burning%20buildings,"Copenhagen, Capital Region of Denmark","['dog', 'render', 'kitten', 'burning', 'building']",1,1
 1963,burning%20buildings,Spying on your thoughts,"['burning', 'building', 'mean', 'like', 'burnt', 'black', 'church']",1,1
 1965,burning%20buildings,seattle grace mercy death,"['never', 'understood', 'guy', 'want', 'run', 'burning', 'building', 'chase', 'murderer', 'fire']",0,0
@@ -1208,7 +1208,7 @@ id,keyword,location,text,target,mean
 1972,bush%20fires,Mid north coast of NSW,"['would', 'please', 'explain', 'go', 'volcano', 'amp', 'bush', 'fire', 'spout', 'co', 'air']",1,1
 1973,bush%20fires,"iPhone: -27.499212,153.011072","['middle', 'winter', 'sydney', 'snow', 'bush', 'fire', 'degree', 'day', 'last', 'week', 'keep', 'toe', 'sure']",1,1
 1975,bush%20fires,Queen Creek AZ,"['ted', 'cruz', 'fire', 'back', 'jeb', 'amp', 'bush', 'lose', 'republican', 'like', 'jeb', 'amp', 'mitt', 'video']",0,0
-1976,bush%20fires,,"['omfg', 'bush', 'fire', 'tiny', 'island', 'freak', 'house', 'gon', 'na', 'burn']",1,1
+1976,bush%20fires,,"['omfg', 'bush', 'fire', 'tiny', 'island', 'freak', 'house', 'go', 'burn']",1,1
 1979,bush%20fires,Jamaica,"['slash', 'burn', 'blame', 'bush', 'fire', 'western', 'st', 'thomas']",1,1
 1980,bush%20fires,Trinidad and Tobago,"['drought', 'fuel', 'bush', 'fire', 'jamaica']",1,1
 1983,bush%20fires,,"['seem', 'gov', 'moonbeam', 'toke', 'blame', 'bush', 'fire']",1,1
@@ -1592,7 +1592,7 @@ id,keyword,location,text,target,mean
 2557,crash,,"['html', 'beginner', 'crash', 'course', 'course']",1,1
 2559,crash,,"['slam', 'door', 'lesson', 'learn', 'let', 'another', 'lover', 'crash', 'burn']",0,0
 2560,crash,,"['car', 'crashsterling', 'drive', 'carmel', 'joeysterling', 'knight']",0,0
-2561,crash,"Aix-en-Provence, France","['alright', 'gon', 'na', 'crash', 'exhaust']",0,0
+2561,crash,"Aix-en-Provence, France","['alright', 'go', 'crash', 'exhaust']",0,0
 2564,crash,Liverpool,"['party', 'bestival', 'crash', 'victim', 'michael', 'molloy', 'would', 'st']",1,1
 2565,crash,I-75 in Florida,"['clear', 'crash', 'hamilton', 'south', 'mm']",1,1
 2566,crash,,"['deliver', 'value', 'cash', 'source', 'crash', 'course', 'course']",1,1
@@ -1607,7 +1607,7 @@ id,keyword,location,text,target,mean
 2579,crash,"  Melbourne, Australia","['get', 'kick', 'crash', 'one', 'bad', 'experience', 'play', 'video', 'game']",0,0
 2582,crash,"Kenton, Ohio",['crash'],1,1
 2585,crash,Galatians 2:20 ,"['please', 'keep', 'josh', 'salyers', 'blair', 'hall', 'family', 'amp', 'jenna', 'friend', 'prayer', 'take', 'far', 'soon', 'rip']",0,0
-2587,crash,,"['one', 'night', 'gon', 'na', 'come', 'crash', 'party', 'invite', 'feelin']",0,0
+2587,crash,,"['one', 'night', 'go', 'come', 'crash', 'party', 'invite', 'feelin']",0,0
 2588,crash,"Charleston, SC","['fatal', 'crash', 'report', 'john', 'island']",1,1
 2590,crash,,"['photoshop', 'tool', 'crash', 'course', 'complete', 'photoshop', 'tool', 'guide', 'course']",0,0
 2591,crash,,"['photoshop', 'crash', 'course', 'course']",0,0
@@ -1799,7 +1799,7 @@ id,keyword,location,text,target,mean
 2870,damage,"Lawrence, KS via Emporia, KS","['hey', 'royal', 'love', 'damage']",1,1
 2871,damage,http://twitch.tv/jcmonkey,"['keep', 'please', 'arachys', 'piece', 'deal', 'weapon', 'damage']",1,1
 2872,damage,Indonesia,"['mages', 'fairy', 'tail', 'specialize', 'property', 'damage', 'natsu', 'dragneel']",0,0
-2873,damage,Unknown,"['yeah', 'fast', 'extremely', 'high', 'damage', 'want', 'fast', 'im', 'gon', 'na', 'get']",1,1
+2873,damage,Unknown,"['yeah', 'fast', 'extremely', 'high', 'damage', 'want', 'fast', 'im', 'go', 'get']",1,1
 2875,damage,Unknown,"['saw', 'fast', 'af', 'great', 'damage', 'upgraded', 'shitton', 'use', 'exclusively', 'whole', 'playthrough']",0,0
 2877,damage,"Marysville, MI","['let', 'say', 'tree', 'fall', 'fence', 'know', 'homeowner', 'insurance', 'may', 'help']",0,0
 2878,damage,"New Haven, Connecticut","['tor', 'tor', 'situation', 'wind', 'damage', 'enhance', 'word', 'key', 'imo']",1,1
@@ -1998,7 +1998,7 @@ id,keyword,location,text,target,mean
 3167,deluge,Melbourne-ish,"['despite', 'deluge', 'fantasticfour', 'notice', 'man', 'cuana', 'still', 'buying', 'ticket', 'bloody', 'mind', 'like']",0,0
 3168,deluge,617-BTOWN-BEATDOWN,"['photo', 'forrestmankins', 'colorado', 'camp']",0,0
 3170,deluge,"Brackley Beach, PE, Canada","['deluge', 'trois', 'rivieres', 'one', 'hour', 'get', 'legionstrackandfield']",0,0
-3171,deluge,London,"['many', 'half', 'naked', 'men', 'twitter', 'tonight', 'normally', 'embrace', 'odd', 'torso', 'scale', 'tonight', 'deluge', 'unprecedented']",0,0
+3171,deluge,London,"['many', 'half', 'naked', 'men', 'twitter', 'tonight', 'normally', 'would', 'embrace', 'odd', 'torso', 'scale', 'tonight', 'deluge', 'unprecedented']",0,0
 3172,deluge,518,"['yes', 'man', 'bad', 'week', 'far', 'event', 'deluge', 'favs', 'turn', 'right', 'around']",0,0
 3173,deluge,"Nottingham, England","['best', 'window', 'torrent', 'client', 'recommend', 'deluge', 'look', 'like', 'write', 'year', 'ago', 'java', 'swing', 'us', 'bad']",0,0
 3174,deluge,eARth 3,"['fifth', 'pre', 'dynastic', 'king', 'legendary', 'period', 'deluge', 'dumuzid', 'shepherd']",0,0
@@ -2041,7 +2041,7 @@ id,keyword,location,text,target,mean
 3235,deluged,,"['business', 'deluge', 'inroices', 'make', 'stand', 'colour', 'shape', 'likely', 'rise', 'top', 'pay', 'pile']",0,0
 3236,deluged,#????? Libya#,"['eu', 'state', 'squabble', 'immigration', 'uk', 'france', 'eurotunnel', 'deluge', 'migrant', 'one', 'dead', 'thousand', 'storm', 'tunnel']",1,1
 3237,deluged,,"['business', 'deluge', 'invoice', 'make', 'stand', 'oup', 'colour', 'shame', 'likely', 'rise', 'top', 'pay', 'pile']",0,0
-3239,deluged,,"['business', 'deluge', 'invzices', 'make', 'stand', 'colour', 'shape', 'sllikely', 'rise', 'top', 'pay', 'pile']",0,0
+3239,deluged,,"['business', 'deluge', 'invzices', 'make', 'stand', 'colour', 'shape', 'isllikely', 'rise', 'top', 'pay', 'pile']",0,0
 3240,deluged,,"['business', 'deluge', 'invoice', 'make', 'stand', 'colour', 'shape', 'likely', 'rise', 'top', 'pay', 'pileq']",1,1
 3241,deluged,,"['department', 'commerce', 'deluge', 'last', 'two', 'month', 'com']",0,0
 3242,deluged,Newcastle,"['feel', 'deluge', 'low', 'self', 'image', 'take', 'quiz']",0,0
@@ -2060,7 +2060,7 @@ id,keyword,location,text,target,mean
 3264,demolish,,"['ugh', 'hungry', 'go', 'demolish', 'food']",0,0
 3265,demolish,,"['demolish', 'deep', 'space', 'etoffe', 'charmeuse', 'clothesless', 'precisionistic', 'vestment', 'psfda']",0,0
 3274,demolish,Fruit Bowl,"['hahah', 'mutual', 'host', 'preset', 'bal', 'nades', 'radar', 'demolish']",0,0
-3275,demolish,South Africa,"['yea', 'gon', 'na', 'demolish', 'boundary', 'seem', 'unconsciously', 'set', 'negative', 'thought']",0,0
+3275,demolish,South Africa,"['yea', 'go', 'demolish', 'boundary', 'seem', 'unconsciously', 'set', 'negative', 'thought']",0,0
 3276,demolish,Hooters on Peachtree,"['nothing', 'midget', 'demolish', 'show', 'respect']",0,0
 3277,demolish,"Otsego, MI","['set', 'goal', 'demolish', 'fitness', 'inspiration']",0,0
 3278,demolish,,"['set', 'goal', 'amp', 'demolish']",0,0
@@ -2068,7 +2068,7 @@ id,keyword,location,text,target,mean
 3281,demolish,"ATL, GA","['watch', 'right', 'freak', 'st', 'first', 'fight', 'demolish', 'guy']",0,0
 3282,demolish,"Uyo, Akwa Ibom State, Nigeria","['think', 'akwa', 'ibom', 'come', 'uruan', 'demolish', 'building', 'ex', 'assembly', 'member', 'warns', 'udom', 'emmanuel']",0,0
 3283,demolish,us-east-1a,"['read', 'already', 'remains', 'one', 'favorite', 'article', 'ever', 'let', 'like', 'demolish', 'laundry']",0,0
-3284,demolish,London,"['imagine', 'kp', 'root', 'demolish', 'everyone']",0,0
+3284,demolish,London,"['imagine', 'kp', 'root', 'would', 'demolish', 'everyone']",0,0
 3285,demolish,RhodeIsland,"['absurdly', 'ridiculous', 'men', 'fashion', 'demolish', 'manhood']",0,0
 3286,demolish,"London, UK","['far', 'right', 'racist', 'avigdorliberman', 'call', 'destruction', 'susiya', 'previously', 'also', 'call', 'beheading']",1,1
 3287,demolish,London,"['could', 'demolish', 'right']",0,0
@@ -2280,7 +2280,7 @@ id,keyword,location,text,target,mean
 3626,desolation,on twitter,"['yeah', 'lamb', 'god', 'rock', 'ring', 'intro', 'desolation', 'hd', 'via']",0,0
 3627,desolation,"2B Hindhede Rd, Singapore","['time', 'desolation', 'trouble', 'daniel', 'persistent', 'prayer', 'fasting', 'brought', 'forth', 'heavenly', 'power', 'god']",0,0
 3628,desolation,"Austin, TX","['lake', 'ohio', 'thought', 'abject', 'desolation', 'subway', 'restaurant']",0,0
-3629,desolation,"Kalimantan Timur, Indonesia","['cause', 'right', 'read', 'good', 'send', 'letter', 'unless', 'gon', 'na', 'mail', 'desolation', 'row']",0,0
+3629,desolation,"Kalimantan Timur, Indonesia","['right', 'read', 'good', 'send', 'letter', 'unless', 'go', 'mail', 'desolation', 'row']",0,0
 3631,desolation,Prehistoric Earth,"['really', 'like', 'first', 'hobbit', 'movie', 'saw', 'three', 'time', 'theatre', 'saw', 'desolation', 'smaug', 'come', 'feel']",0,0
 3632,desolation,san gabriel la union,"['afraid', 'sudden', 'fear', 'neither', 'desolation', 'wicked', 'cometh', 'lord', 'shall', 'thy']",0,0
 3633,desolation,??????,"['hobbit', 'desolation', 'smaug', 'ed', 'sheeran', 'see', 'fire', 'hd']",0,0
@@ -2331,7 +2331,7 @@ id,keyword,location,text,target,mean
 3691,destroy,,"['save', 'rich', 'heaven', 'never', 'decrease', 'thief', 'get', 'moth', 'destroy']",0,0
 3692,destroy,Thailand,"['destroy', 'oppa', 'image', 'oops', 'nothing', 'left', 'right', 'haaaaaa']",0,0
 3694,destroy,SEA Server,"['dazzle', 'destroy', 'fun']",0,0
-3695,destroy,Pretoria,"['catch', 'last', 'minute', 'finally', 'monwabisi', 'get', 'shot', 'lol', 'hlongwane', 'ryt', 'twin', 'gon', 'na', 'destroy', 'ashestoashes']",0,0
+3695,destroy,Pretoria,"['catch', 'last', 'minute', 'finally', 'monwabisi', 'get', 'shot', 'lol', 'hlongwane', 'ryt', 'twin', 'go', 'destroy', 'ashestoashes']",0,0
 3696,destroy,,"['ate', 'mataas', 'kc', 'rating', 'think', 'like', 'destroy', 'story', 'along', 'rating']",0,0
 3697,destroy,Nigeria,"['take', 'piece', 'put', 'ambition', 'check', 'destroy', 'change', 'vote', 'change', 'seek']",0,0
 3700,destroyed,,"['nkea', 'destroyed', 'life', 'gambia', 'mercenary', 'judge']",0,0
@@ -2349,7 +2349,7 @@ id,keyword,location,text,target,mean
 3725,destroyed,"ÌÏT: 6.4682,3.18287","['flood', 'two', 'people', 'dead', 'house', 'destroyed', 'kaduna', 'two', 'people', 'reportedly', 'kill', 'semasirtalks']",1,1
 3726,destroyed,Live4Heed??,"['way', 'destroyed']",0,0
 3727,destroyed,"Waco, Texas","['always', 'felt', 'like', 'namekians', 'black', 'people', 'felt', 'played', 'die', 'planet', 'get', 'destroyed']",0,0
-3729,destroyed,"North Port, FL","['worry', 'every', 'hitter', 'pitcher', 'get', 'destroyed']",0,0
+3729,destroyed,"North Port, FL","['worry', 'would', 'every', 'hitter', 'pitcher', 'get', 'destroyed']",0,0
 3730,destroyed,"BodÌü, Norge","['person', 'blow', 'kill', 'others', 'life', 'heaven', 'ethereal', 'body', 'get', 'destroyed']",0,0
 3735,destroyed,"Boise, Idaho","['year', 'abomb', 'destroyd', 'hiroshima', 'bbc', 'look', 'wht', 'survive', 'cnv', 'watch', 'peace', 'vigil']",1,1
 3737,destroyed,,"['hi', 'david', 'saw', 'usa', 'walk', 'war', 'destroyed', 'life', 'million', 'prevent', 'repeat', 'irandeal']",1,1
@@ -2437,7 +2437,7 @@ id,keyword,location,text,target,mean
 3895,detonation,Geneva,"['year', 'hiroshima', 'nagasaki', 'consequence', 'nuclear', 'detonation']",1,1
 3896,detonation,,"['ignition', 'knock', 'detonation', 'sensor', 'senso', 'standard', 'fit', 'ford']",0,0
 3899,devastated,Manchester,"['im', 'devastate', 'end', 'longer', 'see', 'tyler', 'blackburn', 'face', 'pll', 'xxx']",0,0
-3900,devastated,PG Chillin!,"['man', 'currensy', 'really', 'talkin', 'talk', 'devastate', 'ghostwriter', 'anybody', 'else']",1,1
+3900,devastated,PG Chillin!,"['man', 'currensy', 'really', 'talkin', 'talk', 'would', 'devastate', 'ghostwriter', 'anybody', 'else']",1,1
 3901,devastated,Manchester,"['richmond', 'coach', 'devastate', 'hear', 'death', 'second', 'driver', 'mr', 'chance', 'sit', 'jam']",1,1
 3903,devastated,,"['zayn', 'malik', 'amp', 'perrie', 'edward', 'end', 'engagement', 'devastate']",1,1
 3904,devastated,,"['gujaratriot', 'amp', 'mumbairiot', 'devastate', 'amp', 'indianperpetrated', 'modi', 'amp', 'chawalchorbjp']",1,1
@@ -2515,7 +2515,7 @@ id,keyword,location,text,target,mean
 4038,disaster,los angeles,"['keep', 'askin', 'mean', 'like', 'get', 'answer', 'plus', 'say', 'wrong', 'thing', 'might', 'turn', 'disaster']",1,1
 4039,disaster,"Alexandria, VA","['four', 'technology', 'could', 'let', 'human', 'survive', 'environmental', 'disaster']",0,0
 4041,disaster,"Calgary, AB","['quote', 'website', 'disaster', 'try', 'browser', 'amp', 'machine', 'always', 'get', 'miss', 'info', 'error', 'due', 'non', 'existant', 'drop']",0,0
-4042,disaster,nearest trash can ,"['like', 'think', 'photogenic', 'every', 'time', 'see', 'pic', 'think', 'gosh', 'disaster', 'xd']",0,0
+4042,disaster,nearest trash can ,"['would', 'like', 'think', 'photogenic', 'every', 'time', 'see', 'pic', 'think', 'gosh', 'disaster', 'xd']",0,0
 4045,disaster,,"['locke', 'pitch', 'playoff', 'disaster', 'absolutely', 'positively', 'never', 'let', 'pitch', 'sixth', 'inning']",0,0
 4046,disaster,"Los Angeles, California","['teen', 'disaster', 'preparedness', 'event', 'van', 'nuys', 'august', 'pm', 'via']",0,0
 4047,disaster,Morocco,"['add', 'fez', 'weather', 'equation', 'best', 'recipe', 'disaster']",0,0
@@ -2523,7 +2523,7 @@ id,keyword,location,text,target,mean
 4050,displaced,,"['crew', 'day', 'boarding', 'window', 'park', 'galleria', 'apts', 'fire', 'displace']",1,1
 4052,displaced,Visit our  dedicated website @,"['dead', 'injured', 'displace', 'syria', 'visit', 'canada']",1,1
 4054,displaced,Asia Pacific   ,"['myanmar', 'displace', 'rohingya', 'sittwe', 'point', 'return', 'prison', 'like', 'conditionsprivation']",1,1
-4055,displaced,North Carolina,"['much', 'shit', 'go', 'head', 'rather', 'talk', 'outburst', 'displace', 'aggression', 'sux']",0,0
+4055,displaced,North Carolina,"['much', 'shit', 'go', 'head', 'would', 'rather', 'talk', 'outburst', 'displace', 'aggression', 'sux']",0,0
 4057,displaced,,"['kca', 'votejkt', 'id', 'news', 'update', 'family', 'displace', 'fire', 'damage', 'house', 'near', 'th', 'osborn', 'fire', 'extinguish']",1,1
 4060,displaced,New York City,"['thousand', 'people', 'displace', 'injured', 'kill', 'hey', 'opportunity', 'different', 'restaurant']",1,1
 4061,displaced,Seattle,"['year', 'national', 'society', 'meme', 'preservation', 'open', 'first', 'museum', 'meme', 'origin', 'displace']",0,0
@@ -2562,9 +2562,9 @@ id,keyword,location,text,target,mean
 4122,drought,"Orlando, FL","['weed', 'news', 'marijuana', 'make', 'california', 'drought', 'bad', 'christian', 'science', 'monitor']",1,1
 4123,drought,USA (Formerly @usNOAAgov),"['droughtmonitor', 'moderate', 'bad', 'drought', 'contig', 'usa', 'affect', 'people']",1,1
 4124,drought,"Las Cruces, NM","['pretty', 'neat', 'website', 'get', 'late', 'drought', 'condition', 'area']",1,1
-4127,drought,Meereen ,"['pizza', 'drought', 'anymore']",0,0
+4127,drought,Meereen ,"['pizza', 'drought', 'could', 'anymore']",0,0
 4128,drought,Football Field,"['drought', 'real']",1,1
-4129,drought,i luv raquel,"['california', 'drought', 'gon', 'na', 'issue', 'want', 'president', 'attitude', 'work']",1,1
+4129,drought,i luv raquel,"['california', 'drought', 'go', 'issue', 'want', 'president', 'attitude', 'work']",1,1
 4131,drought,,"['amp', 'amp', 'dam', 'get', 'drought', 'bud']",0,0
 4132,drought,"austin, texas","['californian', 'like', 'living', 'africa', 'sahel', 'desert', 'find', 'water', 'daily', 'chore']",1,1
 4133,drought,,"['record', 'hurricane', 'drought', 'united', 'state', 'hit', 'major', 'hurricane', 'past', 'nine', 'year', 'seem', 'like']",1,1
@@ -2583,7 +2583,7 @@ id,keyword,location,text,target,mean
 4153,drown,,"['save', 'self', 'let', 'drown']",0,0
 4154,drown,East Coast,"['carry', 'thing', 'inside', 'one', 'else', 'see', 'hold', 'like', 'anchor', 'drown', 'sea']",0,0
 4156,drown,"Coconut Creek, Florida","['nowplaying', 'porcupine', 'tree', 'drown', 'live', 'listen', 'live']",0,0
-4157,drown,,"['lowkey', 'already', 'know', 'gon', 'na', 'drown', 'school', 'year']",0,0
+4157,drown,,"['lowkey', 'already', 'know', 'go', 'drown', 'school', 'year']",0,0
 4158,drown,icon: cheese3d,['drown'],0,0
 4159,drown,@notoriousD12,"['throw', 'water', 'drown', 'last', 'word', 'choke']",0,0
 4160,drown,new york,"['drown', 'swim']",0,0
@@ -2594,7 +2594,7 @@ id,keyword,location,text,target,mean
 4168,drown,"Morris, IL","['ev', 'make', 'wan', 'na', 'drown', 'idiot']",0,0
 4170,drown,,"['put', 'detroit', 'nigga', 'go', 'act', 'tryna', 'fuck', 'drown', 'mf', 'loose', 'buff', 'water']",0,0
 4171,drown,,"['hope', 'drown']",0,0
-4173,drown,"Lynwood, CA","['gon', 'na', 'drown', 'mustard', 'lemon', 'pepper']",0,0
+4173,drown,"Lynwood, CA","['go', 'drown', 'mustard', 'lemon', 'pepper']",0,0
 4175,drown,Where the money at,"['parent', 'believe', 'dream', 'sad']",0,0
 4176,drown,,"['old', 'native', 'australian', 'believe', 'ocean', 'create', 'urine', 'angry', 'god', 'try', 'drown', 'world']",0,0
 4177,drown,mi,"['one', 'told', 'drown', 'drinking', 'much', 'water']",0,0
@@ -2745,7 +2745,7 @@ id,keyword,location,text,target,mean
 4398,electrocute,Here.,"['kindly', 'follow', 'back']",0,0
 4401,electrocute,,"['hopefully', 'electrocute', 'heat', 'blanket', 'lmao']",0,0
 4402,electrocute,,"['kid', 'get', 'disney', 'version', 'game', 'operation', 'aa', 'battery', 'swear', 'old', 'version', 'like', 'would', 'nearly', 'electrocute']",0,0
-4403,electrocute,BOT ACCOUNT,"['elecman', 'could', 'electrocute', 'say', 'thanks']",0,0
+4403,electrocute,BOT ACCOUNT,"['elecman', 'could', 'electrocute', 'would', 'say', 'thanks']",0,0
 4405,electrocute,,"['get', 'extension', 'cord', 'extends', 'bed', 'bath', 'tub', 'let', 'pray', 'electrocute']",0,0
 4406,electrocute,#otrakansascity,"['wan', 'na', 'tweet', 'niall', 'thx', 'make', 'electrocute', 'tweet', 'scar', 'jinx']",0,0
 4407,electrocute,"Dalkeith, Scotland","['wtf', 'thomas', 'edison', 'make', 'lightbulb', 'use', 'electrocute', 'animal', 'make', 'everyone', 'think', 'tesla', 'power', 'unsafe', 'wank']",0,0
@@ -2759,7 +2759,7 @@ id,keyword,location,text,target,mean
 4421,electrocute,Mass,"['try', 'electrocute', 'self', 'phone', 'cord']",0,0
 4423,electrocute,14/cis/istj ,"['mom', 'friend', 'still', 'see', 'friend', 'little', 'baby', 'care', 'else', 'electrocute']",0,0
 4424,electrocute,,"['phone', 'electrocute', 'charge']",0,0
-4425,electrocute,,"['say', 'love', 'come', 'help', 'sea', 'would', 'electrocute']",0,0
+4425,electrocute,,"['say', 'would', 'love', 'come', 'help', 'sea', 'would', 'electrocute']",0,0
 4426,electrocute,Michigan ,"['freeze', 'room', 'amp', 'erally', 'want', 'unplug', 'ac', 'want', 'electrocute', 'myelf', 'die']",0,0
 4427,electrocute,,"['need', 'delete', 'start', 'cry', 'computer', 'electrocute']",0,0
 4428,electrocute,,"['piss', 'could', 'pikachu', 'electrocute']",0,0
@@ -2790,10 +2790,10 @@ id,keyword,location,text,target,mean
 4466,electrocuted,North Carolina,"['love', 'classic', 'barn', 'shot', 'may', 'may', 'get', 'electrocute', 'get', 'stung', 'time', 'step']",1,1
 4468,electrocuted,,"['get', 'electrocute', 'last', 'night', 'work', 'first', 'time', 'life', 'shit', 'weird']",0,0
 4470,electrocuted,Hampshire UK,"['southkorea', 'dog', 'prepared', 'electrocutedboiling', 'waterfur', 'machine', 'still', 'alive']",0,0
-4471,electrocuted,Oblivion?,"['thought', 'let', 'know', 'probably', 'good', 'idea', 'plug', 'hairdryer', 'wet', 'electrocute']",0,0
+4471,electrocuted,Oblivion?,"['thought', 'would', 'let', 'know', 'probably', 'good', 'idea', 'plug', 'hairdryer', 'wet', 'electrocute']",0,0
 4472,electrocuted,"South West, England","['mt', 'treatment', 'tiger', 'china', 'appal', 'electrocute', 'front', 'businessmen', 'amp', 'eat', 'saveti']",1,1
 4476,electrocuted,,"['blow', 'dry', 'hair', 'amp', 'cable', 'caught', 'fire', 'let', 'go', 'soon', 'realize', 'could', 'get', 'electrocute']",1,1
-4478,electrocuted,?????,"['work', 'today', 'sweat', 'much', 'like', 'though', 'gon', 'na', 'get', 'electrocute', 'earbuds', 'omg']",0,0
+4478,electrocuted,?????,"['work', 'today', 'sweat', 'much', 'like', 'though', 'go', 'get', 'electrocute', 'earbuds', 'omg']",0,0
 4479,electrocuted,"Redondo Beach, CA","['baby', 'actually', 'get', 'electrocute', 'wall', 'socket', 'wonder', 'survive', 'childhood']",1,1
 4480,electrocuted,"Newcastle, England","['also', 'iphone', 'charger', 'broken', 'electrocute']",0,0
 4482,electrocuted,nyc,"['queer', 'sultry', 'summer', 'summer', 'electrocute', 'rosenbergs', 'know', 'new', 'york']",0,0
@@ -2803,7 +2803,7 @@ id,keyword,location,text,target,mean
 4489,electrocuted,,"['god', 'damn', 'electrocute']",0,0
 4490,electrocuted,"Mumbai, Maharashtra","['watch', 'man', 'electrocute', 'roof', 'mumbailocals', 'definitely', 'lesson', 'people', 'please', 'learn', 'lessonforlife', 'marinelines', 'mumbai']",1,1
 4491,electrocuted,Atlanta,"['work', 'factory', 'press', 'design', 'onto', 'shirt', 'electrocute', 'faulty', 'ground', 'bos', 'docked', 'pay', 'er', 'worstsummerjob']",1,1
-4492,electrocuted,,"['elsa', 'gon', 'na', 'end', 'get', 'electrocute', 'gon', 'na', 'end', 'like', 'cat', 'christmas', 'vacation']",0,0
+4492,electrocuted,,"['elsa', 'go', 'end', 'get', 'electrocute', 'go', 'end', 'like', 'cat', 'christmas', 'vacation']",0,0
 4493,electrocuted,,"['shower', 'go', 'go', 'change', 'song', 'course', 'get', 'fuck', 'electrocute', 'cord']",0,0
 4494,electrocuted,,"['able', 'touch', 'anything', 'anyone', 'penneys', 'without', 'electrocute']",0,0
 4496,electrocuted,,"['student', 'electrocute', 'death', 'school', 'campus']",1,1
@@ -2829,7 +2829,7 @@ id,keyword,location,text,target,mean
 4527,emergency,"Anchorage, AK","['anchorage', 'job', 'emergency', 'medicine', 'nurse', 'practitioner', 'healthcare', 'recruitment', 'counselor', 'wasilla', 'ak', 'em']",0,0
 4528,emergency,World,"['set', 'emergency', 'fund', 'easy', 'step', 'never', 'know', 'surprise', 'expense', 'pop', 'work']",0,0
 4529,emergency,,"['eye', 'nation', 'amp', 'broader', 'conservation', 'community', 'alaska', 'reinstate', 'emergency', 'buffer', 'protectdenaliwolves']",0,0
-4530,emergency,University of Limerick,"['gon', 'na', 'call', 'tomorrow', 'aul', 'emergency', 'dental', 'appointment', 'excuse', 'like', 'whole', 'tooth', 'fall', 'incident', 'last', 'year']",1,1
+4530,emergency,University of Limerick,"['go', 'call', 'tomorrow', 'aul', 'emergency', 'dental', 'appointment', 'excuse', 'like', 'whole', 'tooth', 'fall', 'incident', 'last', 'year']",1,1
 4531,emergency,,"['loan', 'settlement', 'day', 'emergency', 'money', 'advance', 'treasure', 'house', 'self', 'outbreed', 'take', 'home', 'akx']",0,0
 4533,emergency,Sacae Plains,"['peacetime', 'time', 'national', 'emergency']",1,1
 4534,emergency,"Melbourne, Australia","['lean', 'think', 'quicker', 'police', 'emergency', 'response', 'time']",0,0
@@ -2943,7 +2943,7 @@ id,keyword,location,text,target,mean
 4708,epicentre,,"['little', 'studio', 'middle', 'nowhere', 'become', 'epicentre', 'communication']",0,0
 4709,epicentre,,"['epicentre', 'cydia', 'tweak', 'thanks']",0,0
 4710,epicentre,Cydia,"['question', 'anybody', 'else', 'problem', 'circle', 'epicentre', 'via', 'jailbreak']",0,0
-4711,evacuate,,"['feel', 'like', 'mkayla', 'cee', 'ever', 'get', 'room', 'everyone', 'evacuate', 'would', 'petty', 'childish', 'deal']",1,1
+4711,evacuate,,"['feel', 'like', 'mkayla', 'cee', 'ever', 'get', 'room', 'everyone', 'evacuate', 'would', 'petty', 'childish', 'could', 'deal']",1,1
 4712,evacuate,,"['chicago', 'ap', 'organizer', 'lollapalooza', 'say', 'reopen', 'music', 'festival', 'threat', 'storm', 'prompt', 'evacuate']",1,1
 4713,evacuate,Tallahassee Florida,"['learn', 'evacuate', 'home', 'event', 'wildfire', 'view', 'video', 'ca', 'nv', 'ut', 'co']",1,1
 4714,evacuate,,"['disaster', 'control', 'team', 'study', 'way', 'evacuate', 'port', 'area', 'response', 'tidal', 'wave', 'warning']",1,1
@@ -3045,7 +3045,7 @@ id,keyword,location,text,target,mean
 4854,evacuation,,"['reid', 'lake', 'fire', 'prompt', 'campground', 'evacuation', 'order']",1,1
 4856,evacuation,,"['evil', 'generation', 'rock', 'roll', 'evacuation', 'far', 'eye', 'see', 'hey', 'hey', 'hey', 'hey']",0,0
 4857,evacuation,The Empire/First Order,"['good', 'play', 'along', 'may', 'begin', 'operation', 'death', 'star', 'evacuation', 'nearly', 'complete']",0,0
-4858,evacuation,"Brisbane, Queensland","['evacuation', 'drill', 'work', 'fire', 'door', 'open', 'get', 'smash', 'emergency', 'release', 'glass', 'feelingmanly']",0,0
+4858,evacuation,"Brisbane, Queensland","['evacuation', 'drill', 'work', 'fire', 'door', 'would', 'open', 'get', 'smash', 'emergency', 'release', 'glass', 'feelingmanly']",0,0
 4859,evacuation,USA,"['evacuation', 'order', 'lift', 'roosevelt', 'wildfire', 'miss', 'town', 'komo', 'news']",1,1
 4860,evacuation,"Moncton, New Brunswick","['gas', 'leak', 'force', 'evacuation', 'east', 'saint', 'john', 'nb']",1,1
 4864,explode, |IG: imaginedragoner,"['ryan', 'release', 'new', 'music', 'soon', 'might', 'explode']",0,0
@@ -3068,17 +3068,17 @@ id,keyword,location,text,target,mean
 4888,explode,"Yamaku Academy, Class 3-4","['version', 'character', 'every', 'character', 'world', 'would', 'explode', 'rin', 'shizune', 'misha', 'emi', 'kenji', 'yuuko', 'nomiya', 'hisao']",0,0
 4889,explode,United States,"['philadelphia', 'eagle', 'jordan', 'matthew', 'go', 'explode', 'news', 'hotnewscake']",0,0
 4890,explode,"Whitby, ON",['explode'],0,0
-4892,explode,Kajang ? UiTM Puncak Alam,"['head', 'gon', 'na', 'explode', 'soon']",0,0
+4892,explode,Kajang ? UiTM Puncak Alam,"['head', 'go', 'explode', 'soon']",0,0
 4893,explode,"Dallas, TX","['one', 'way', 'make', 'head', 'explode']",0,0
 4894,explode,,"['block', 'plate', 'charge', 'schwarber', 'come', 'line', 'cervelli', 'dare', 'would', 'explode', 'little', 'puff', 'smoke']",0,0
-4895,explode,,"['mess', 'gon', 'na', 'explode']",1,1
+4895,explode,,"['mess', 'go', 'explode']",1,1
 4896,explode,? Philly Baby ?,"['brain', 'go', 'explode', 'need', 'leave', 'house', 'ill', 'smoking', 'pack', 'need']",0,0
 4897,explode,"Cleveland, TN","['vine', 'year', 'oh', 'god', 'explode']",0,0
 4898,explode,they/them,"['tag', 'million', 'punk', 'hang', 'em', 'high', 'alpha', 'dog', 'yeah', 'boy', 'doll', 'face', 'little', 'white', 'lie', 'explode']",0,0
 4900,explode,my deli,"['want', 'fuck', 'duck', 'explode', 'could', 'greasy']",0,0
 4901,explode,,"['people', 'explode']",0,0
 4905,explode,,"['think', 'tie', 'thunderstorm', 'tho', 'make', 'soul', 'explode']",0,0
-4906,explode,,"['head', 'gon', 'na', 'explode']",0,0
+4906,explode,,"['head', 'go', 'explode']",0,0
 4908,explode,Winnipeg,"['ready', 'explode']",0,0
 4909,explode,New Hampshire,"['press', 'twitch', 'head', 'explode']",0,0
 4910,explode,,"['toronto', 'go', 'crazy', 'blue', 'jay', 'imagine', 'leaf', 'get', 'good', 'city', 'might', 'literally', 'explode']",0,0
@@ -3095,7 +3095,7 @@ id,keyword,location,text,target,mean
 4926,exploded,South east of U.K,"['saw', 'man', 'whose', 'mind', 'explode', 'drako', 'zarharzar', 'day']",0,0
 4929,exploded,,"['read', 'break', 'hour', 'twitter', 'notice', 'though', 'nothing', 'worry', 'bc', 'twitter', 'explode', 'bc']",0,0
 4931,exploded,,"['explode', 'amp', 'brought', 'begin', 'universe', 'match', 'mention', 'versethe', 'heaven', 'earth', 'thus', 'universe']",0,0
-4934,exploded,USA,"['told', 'ten', 'year', 'ago', 'see', 'anime', 'big', 'screen', 'probably', 'would', 'explode']",0,0
+4934,exploded,USA,"['told', 'ten', 'year', 'ago', 'would', 'see', 'anime', 'big', 'screen', 'probably', 'would', 'explode']",0,0
 4936,exploded,,"['reason', 'explode']",0,0
 4938,exploded,lrhcthband;four - bournemouth,"['luke', 'microphone', 'explode', 'ovary']",0,0
 4940,exploded,"Oakland, Ca","['holy', 'crap', 'phone', 'explode', 'haha']",0,0
@@ -3179,7 +3179,7 @@ id,keyword,location,text,target,mean
 5062,famine,Florida but I wanna be n Texas,"['guy', 'bitch', 'famine']",0,0
 5063,famine,"New York, USA","['food', 'crematorium', 'provoke', 'outrage', 'amid', 'crisis', 'famine', 'memory']",1,1
 5064,famine,"Kyiv, Ukraine","['russia', 'food', 'crematorium', 'provoke', 'outrage', 'country', 'soar', 'poverty', 'soviet', 'famine', 'memory']",1,1
-5065,famine,,"['hunger', 'hit', 'function', 'probably', 'last', 'long', 'famine', 'zone', 'thank', 'god']",0,0
+5065,famine,,"['hunger', 'hit', 'function', 'probably', 'would', 'last', 'long', 'famine', 'zone', 'thank', 'god']",0,0
 5067,famine,,"['accord', 'gallup', 'poll', 'money', 'likely', 'suffer', 'time', 'famine', 'ari']",0,0
 5068,famine,JamDung,"['ppl', 'like', 'unu', 'feast', 'today', 'famine', 'tomorrow']",0,0
 5069,famine,PanamÌÁ ,"['top', 'turn', 'darkness', 'king', 'redeem', 'queen', 'serene', 'famine', 'wolf']",0,0
@@ -3327,7 +3327,7 @@ id,keyword,location,text,target,mean
 5283,fear,Bedford IN ,"['horror', 'film', 'make', 'incredibly', 'creative', 'artist', 'interviewed', 'depth', 'anatomy', 'fear']",1,1
 5284,fear,,"['want', 'forever', 'stay', 'side', 'special', 'night', 'fear', 'loathe', 'la', 'vega', 'solitude']",0,0
 5285,fear,"Thibodaux, LA","['bad', 'fear']",0,0
-5286,fear,,"['im', 'shake', 'fear', 'gon', 'na', 'hack', 'planet']",0,0
+5286,fear,,"['im', 'shake', 'fear', 'go', 'hack', 'planet']",0,0
 5287,fear,Brazil,"['world', 'say', 'finish', 'god', 'say', 'fear', 'choosegod', 'restoringpaths']",0,0
 5290,fear,In the moment,"['replace', 'fear', 'unknown', 'curiosity', 'open']",0,0
 5291,fear,,"['love', 'god', 'fear', 'hell']",0,0
@@ -3373,7 +3373,7 @@ id,keyword,location,text,target,mean
 5344,fire,Makai,"['tenshi', 'activate', 'yuki', 'fire', 'card']",0,0
 5345,fire,"Fort Valley,GA/Fayetteville,AR","['california', 'shake', 'catch', 'fire', 'overcharge', 'ppl', 'rent', 'past', 'year', 'go', 'nowhere']",1,1
 5346,fire,Arizona,"['fire', 'catalinas', 'look', 'kinda', 'cool', 'picture', 'justice']",1,1
-5347,fire,,"['overwork', 'album', 'gon', 'na', 'fire', 'overwork', 'stress', 'love', 'take', 'care']",0,0
+5347,fire,,"['overwork', 'album', 'go', 'fire', 'overwork', 'stress', 'love', 'take', 'care']",0,0
 5349,fire,"Vancouver, BC","['promise', 'tax', 'pancake', 'rainbow', 'die', 'fire']",0,0
 5350,fire,"Newark, NJ","['nigga', 'cyhi', 'dis', 'meek', 'suppose', 'shit', 'actually', 'fire']",0,0
 5351,fire,the road to success,"['wan', 'na', 'set', 'shit', 'fire']",1,1
@@ -3469,7 +3469,7 @@ id,keyword,location,text,target,mean
 5493,flames,"Hillsville/Lynchburg, VA","['optimistic', 'side', 'doubt', 'tough', 'feel', 'like', 'game', 'pivot', 'defense']",0,0
 5495,flames,Some where,"['pardon', 'burst', 'flame', 'enough', 'world', 'people', 'mindless', 'game']",0,0
 5496,flames,Travelling around the world ,"['want', 'burst', 'flame', 'anna', 'hug', 'tightly']",0,0
-5497,flames," 616 Û¢ Kentwood , MI ","['selmo', 'catch', 'flame', 'im', 'gon', 'na', 'witness', 'slaughter']",1,1
+5497,flames," 616 Û¢ Kentwood , MI ","['selmo', 'catch', 'flame', 'im', 'go', 'witness', 'slaughter']",1,1
 5498,flames,,"['bloody', 'ell', 'let', 'burn', 'rubybot']",0,0
 5499,flames,,"['opinion', 'put', 'thh', 'internet', 'furst', 'flame']",0,0
 5501,flames,? Jet Life ?,"['rise', 'follower', 'graph', 'follower', 'past', 'week', 'get', 'stats', 'right']",0,0
@@ -3511,7 +3511,7 @@ id,keyword,location,text,target,mean
 5556,flattened,"Baltimore, MD","['photo', 'beach', 'earring', 'beach', 'jewelry', 'vacation', 'earring', 'keep', 'calm', 'beach', 'earring', 'make', 'flatten']",0,0
 5557,flattened,,"['mix', 'new', 'flat', 'double', 'side', 'linerless', 'bottle', 'cap', 'choose', 'mix', 'flatten', 'full']",0,0
 5558,flattened,"East Lansing, MI","['flat', 'football', 'like', 'flatten', 'spartan', 'crush', 'back', 'day', 'hail']",0,0
-5559,flattened,Rocketing through the galaxy,"['ever', 'see', 'far', 'dreamy', 'look', 'come', 'face', 'ear', 'flatten', 'start', 'walk', 'slowly', 'toward']",1,1
+5559,flattened,Rocketing through the galaxy,"['ever', 'see', 'far', 'dreamy', 'look', 'come', 'face', 'ear', 'flatten', 'start', 'walk', 'slowly', 'toward', 'would']",1,1
 5561,flood,boston,"['fizzy', 'sit', 'regular', 'flood', 'seat', 'one', 'know']",0,0
 5563,flood,United States,"['jkl', 'cancel', 'flash', 'flood', 'warn', 'bell', 'harlan', 'knox', 'ky', 'wx']",1,1
 5567,flood,"Warrandyte, Australia","['small', 'flood', 'big', 'consequence']",1,1
@@ -3707,7 +3707,7 @@ id,keyword,location,text,target,mean
 5864,hailstorm,Virgo Supercluster,"['boston', 'yesterday', 'intense', 'hailstorm', 'post', 'cityporn']",1,1
 5867,hailstorm,,"['favorite', 'text']",0,0
 5868,hailstorm,facebook.com/tradcatknights,"['canada', 'hailstorm', 'flash', 'flood', 'slam', 'calgary', 'knock', 'power', 'customer']",1,1
-5869,hailstorm,"Wyoming, MI (Grand Rapids)","['gon', 'na', 'take', 'break', 'work', 'get', 'ta', 'right', 'carlilescanoelivery', 'lovemyjob']",0,0
+5869,hailstorm,"Wyoming, MI (Grand Rapids)","['go', 'take', 'break', 'work', 'get', 'ta', 'right', 'carlilescanoelivery', 'lovemyjob']",0,0
 5870,hailstorm,"Iliff,Colorado  ","['severe', 'hailstorm', 'progress', 'northeast', 'logan', 'county', 'cowx']",1,1
 5873,hailstorm,Dicky Beach,"['say', 'hailstorm']",1,1
 5874,hailstorm,,"['scar', 'leave', 'car', 'tree', 'storm', 'jamaicaplain', 'boston', 'hailstorm']",1,1
@@ -3722,7 +3722,7 @@ id,keyword,location,text,target,mean
 5888,harm,,"['anyone', 'try', 'harm', 'cupcake', 'fuck', 'hunt', 'end', 'earth', 'harrybecareful']",0,0
 5889,harm," Queensland, Australia","['vanderbilt', 'first', 'harm']",0,0
 5891,harm,"Cleveland, OH - San Diego, CA","['imagine', 'doctor', 'treat', 'ebola', 'patient', 'without', 'ever', 'place', 'harm', 'way']",1,1
-5892,harm,,"['right', 'annoyed', 'actually', 'hung', 'see', 'mean', 'harm']",0,0
+5892,harm,,"['right', 'annoyed', 'actually', 'hung', 'would', 'see', 'mean', 'harm']",0,0
 5893,harm,The barn,"['burn', 'self', 'harm', 'way', 'dumbass', 'allow', 'around', 'fire', 'way']",0,0
 5894,harm,where the wild things are,"['concur', 'longer', 'spend', 'child', 'harm', 'mmk']",0,0
 5896,harm,?semekeepschanging@soyeh?,"['people', 'keep', 'tag', 'self', 'harm', 'fuck']",0,0
@@ -3763,22 +3763,22 @@ id,keyword,location,text,target,mean
 5947,hazard,a van down by the river,"['choke', 'hazard', 'dont', 'die', 'get']",0,0
 5949,hazard,,"['road', 'hazard', 'cascade', 'rd', 'sw', 'childress', 'dr', 'sw']",0,0
 5950,hazard,NIFC,"['road', 'closure', 'remain', 'effect', 'due', 'hazard', 'tree', 'fall', 'tree', 'torch', 'uphill', 'run', 'fire', 'forest', 'service', 'road', 'remains', 'close']",1,1
-5952,hazard,"Giddy, Greenland","['di', 'maria', 'left', 'dear', 'mufc', 'back', 'hazard', 'di', 'maria', 'argument', 'say', 'hazard', 'way', 'well', 'idc']",0,0
+5952,hazard,"Giddy, Greenland","['di', 'maria', 'left', 'dear', 'mufc', 'back', 'hazard', 'di', 'maria', 'argument', 'would', 'say', 'hazard', 'way', 'well', 'idc']",0,0
 5953,hazard,,"['davis', 'drug', 'guide', 'nurse', 'judith', 'hopfer', 'deglin', 'april', 'hazard', 'vallerand']",0,0
 5954,hazard,,"['eden', 'hazard', 'hockey']",0,0
 5955,hazard,Chicago,"['confirm', 'sanchez', 'hazard', 'bolasie', 'rest', 'season']",1,1
 5956,hazard,"Roppongi, Minato, Tokyo ","['eden', 'hazard', 'harden', 'spot', 'flop', 'identical']",0,0
 5957,hazard,,"['rate', 'hazard', 'highly', 'fanboys', 'among', 'bad', 'account', 'twitter']",0,0
-5958,hazard,,"['bad', 'personally', 'get', 'rid', 'either', 'hazard', 'aguero', 'well', 'striker', 'berahino']",0,0
+5958,hazard,,"['bad', 'personally', 'would', 'get', 'rid', 'either', 'hazard', 'aguero', 'well', 'striker', 'berahino']",0,0
 5960,hazard,,"['break', 'arsenal', 'hector', 'bellerin', 'arrest', 'question', 'regard', 'disappearance', 'eden', 'hazard']",0,0
 5961,hazard,"Portsmouth, VA","['freak', 'accident', 'sure', 'look', 'someone', 'blame', 'maybe', 'remember', 'player', 'broke', 'leg', 'cuz', 'cart', 'back', 'end', 'zone', 'common', 'sense']",0,0
 5962,hazard,scandinavia,"['december', 'court', 'dismiss', 'group', 'charge', 'rape', 'victim', 'say', 'get', 'rap', 'occupational', 'hazard', 'military', 'isi']",0,0
 5963,hazard,,"['bmw', 'emergency', 'warn', 'hazard', 'switch', 'button', 'oem']",0,0
 5964,hazard,Kenya,"['kenya', 'news', 'chelsea', 'talisman', 'eden', 'hazard', 'keen', 'match', 'cristiano', 'ronaldo', 'lionel', 'messi', 'mipasho']",0,0
 5965,hazard,"Chicago, IL","['big', 'lead', 'hazard', 'new', 'england', 'history', 'yeah', 'let', 'nail', 'guy']",0,0
-5966,hazard,Dil's Campsite,"['fire', 'safety', 'hazard']",1,1
+5966,hazard,Dil's Campsite,"['fire', 'would', 'safety', 'hazard']",1,1
 5972,hazard,Massachusetts,"['precious', 'cargo', 'onesie', 'recall', 'choke', 'hazard']",0,0
-5974,hazard,,"['alright', 'hazard', 'willian', 'gon', 'na', 'shift', 'easily']",0,0
+5974,hazard,,"['alright', 'hazard', 'willian', 'go', 'shift', 'easily']",0,0
 5975,hazard,,"['pm', 'hazard', 'high', 'traffic', 'area', 'dean', 'bridge', 'rd']",1,1
 5978,hazard,,"['battlefield', 'funny', 'moment', 'duke', 'hazard', 'undercover', 'soldier', 'mav', 'via']",0,0
 5979,hazard,,"['hi', 'email', 'people', 'use', 'report', 'thing', 'think', 'fire', 'hazard', 'dangerous']",1,1
@@ -3826,7 +3826,7 @@ id,keyword,location,text,target,mean
 6050,heat%20wave,"Crayford, London","['mini', 'heat', 'wave', 'apaz']",1,1
 6051,heat%20wave,"Arnhem, the Netherlands","['arnhem', 'weather', 'lt', 'gt', 'unrelenting', 'dangerous', 'heat', 'wave', 'expand', 'across', 'south', 'central', 'united', 'state']",1,1
 6053,heat%20wave,Pacific Northwest,"['uae', 'cool', 'mideast', 'heat', 'wave', 'rain', 'watch', 'late', 'video', 'ncms', 'issue', 'warn', 'thunder', 'rain', 'poor', 'visibility']",1,1
-6055,heat%20wave,Somewhere in Spain,"['well', 'see', 'bummer', 'heat', 'wave', 'tho', 'prefer', 'rain']",1,1
+6055,heat%20wave,Somewhere in Spain,"['well', 'see', 'bummer', 'heat', 'wave', 'tho', 'would', 'prefer', 'rain']",1,1
 6056,heat%20wave,,"['heat', 'wave', 'squad', 'revitup', 'pizzarev']",1,1
 6057,heat%20wave,"Jackson, MS","['jackson', 'long', 'streak', 'triple', 'digit', 'heat', 'since', 'forecast', 'dallas']",1,1
 6058,heat%20wave,"State College, PA","['must', 'read', 'forecast', 'long', 'streak', 'triple', 'digit', 'heat', 'since', 'happens', 'next']",1,1
@@ -3987,7 +3987,7 @@ id,keyword,location,text,target,mean
 6395,hurricane,New York,"['bluedio', 'turbine', 'hurricane', 'bluetooth', 'wireless', 'stereo', 'headphone', 'headset', 'blk', 'full']",0,0
 6396,hurricane,Berlin - Germany,"['see', 'hurricane', 'guillermo', 'meteoearth']",1,1
 6397,hurricane,Vineyard,"['true', 'gt']",1,1
-6398,hurricane,,"['name', 'hurricane', 'black', 'people', 'name', 'terrify', 'hurricane', 'shanaynay']",0,0
+6398,hurricane,,"['name', 'hurricane', 'black', 'people', 'name', 'would', 'terrify', 'hurricane', 'shanaynay']",0,0
 6399,hurricane,,"['shootas', 'hungry', 'body', 'burner']",0,0
 6400,hurricane,@potteratthedisc,"['hurricane', 'stm', 'quem', 'lembra']",1,1
 6402,hurricane,"Anderson, SC","['hurricane', 'sick']",1,1
@@ -4132,7 +4132,7 @@ id,keyword,location,text,target,mean
 6624,inundated,"San Jose, CA, USA","['set', 'become', 'huge', 'one', 'month', 'wonder', 'pornhub', 'inundate']",1,1
 6625,inundated,"UK, Republic of Ireland and Australia","['inundate', 'employee', 'holiday', 'request', 'paperwork', 'cloud', 'base', 'hr', 'software', 'help', 'simplify', 'staff', 'logistics']",0,0
 6626,inundated,Milton keynes,"['brace', 'sunday', 'even', 'inundate', 'thousand', 'call', 'depressed', 'fan']",0,0
-6627,inundated,Pontefract UK,"['imagine', 'inundate', 'request', 'week', 'sample', 'amp', 'much', 'love', 'able', 'send', 'sweet']",1,1
+6627,inundated,Pontefract UK,"['imagine', 'inundate', 'request', 'week', 'sample', 'amp', 'much', 'would', 'love', 'able', 'send', 'sweet']",1,1
 6628,inundated,the Dirty D,"['pfft', 'wish', 'bot', 'like', 'instead', 'daily', 'inundate', 'character', 'unhinged', 'machismo', 'bullshit']",0,0
 6629,inundated,United States,"['tech', 'data', 'overload', 'grow', 'demand', 'context', 'structure', 'world', 'inundate', 'information', 'news']",0,0
 6630,inundated,,"['wither', 'death', 'album', 'found', 'undermine', 'backyard', 'cat', 'inundate', 'floor', 'muster', 'cat', 'food']",0,0
@@ -4214,7 +4214,7 @@ id,keyword,location,text,target,mean
 6748,lava,"Vancouver, BC","['try', 'make', 'chocolate', 'peanut', 'butter', 'lava', 'cake', 'use', 'shakeology', 'protein', 'shake', 'mix']",0,0
 6749,lightning,,"['thunder', 'lightning', 'possible', 'pinpoint', 'foothill', 'forecast']",1,1
 6751,lightning,"Coventry, UK","['dog', 'lightning', 'reshapes', 'rock', 'atomic', 'level', 'lightning', 'strike', 'reshape', 'mineral', 'crystal', 'structure']",0,0
-6754,lightning,"Seattle, WA","['gon', 'na', 'puppy', 'destroy', 'iphone', 'lightning', 'cable']",0,0
+6754,lightning,"Seattle, WA","['go', 'puppy', 'destroy', 'iphone', 'lightning', 'cable']",0,0
 6756,lightning,Georgia,"['lightning', 'something', 'serious']",1,1
 6757,lightning,"Norman, Oklahoma","['couple', 'storm', 'near', 'guthrie', 'ok', 'leave', 'norman', 'even', 'lightning', 'op', 'okwx']",1,1
 6758,lightning,"Rapid City, Black Hills, SD","['nw', 'say', 'thunderstorm', 'deadly', 'lightning', 'move', 'across', 'black', 'hill', 'even', 'assumes', 'safe', 'type', 'hmm']",1,1
@@ -4324,10 +4324,10 @@ id,keyword,location,text,target,mean
 6919,mass%20murderer,,"['julian', 'knight', 'dismisses', 'mass', 'murderer', 'attempt', 'increase', 'prisoner', 'pay', 'challenged', 'quantum', 'increase']",1,1
 6921,mass%20murderer,"Eww, I'm not Paul Elam","['reminder', 'mass', 'murderer', 'white', 'supremacist', 'anders', 'breivik', 'also', 'unsurprisingly', 'anti', 'feminist']",1,1
 6925,mass%20murderer,"Huntsville, AL","['step', 'one', 'get', 'mass', 'murderer', 'portrait', 'yuan']",0,0
-6926,mass%20murderer,Hemel Hempstead,"['friend', 'really', 'friend', 'support', 'regardless', 'decision', 'unless', 'become', 'mass', 'murderer', 'something']",0,0
+6926,mass%20murderer,Hemel Hempstead,"['friend', 'really', 'friend', 'would', 'support', 'regardless', 'decision', 'unless', 'become', 'mass', 'murderer', 'something']",0,0
 6928,mass%20murderer,Chester Football Club,"['take', 'mass', 'murderer', 'one']",0,0
 6929,mass%20murderer,Fresno,"['happy', 'boy', 'mass', 'murderer']",1,1
-6930,mass%20murderer,Earth,"['take', 'suit', 'surprised', 'hear', 'face', 'belong', 'another', 'democrat', 'mass', 'murderer']",1,1
+6930,mass%20murderer,Earth,"['take', 'suit', 'would', 'surprised', 'hear', 'face', 'belong', 'another', 'democrat', 'mass', 'murderer']",1,1
 6931,mass%20murderer,"West Hollywood, CA","['gun', 'law', 'ever', 'dissuade', 'potential', 'mass', 'murderer']",1,1
 6932,mass%20murderer,,"['another', 'white', 'mass', 'murderer', 'thank', 'god', 'live', 'california']",1,1
 6933,mass%20murderer,ANDY 4 LEADER X,"['let', 'hope', 'upper', 'class', 'white', 'mass', 'murderer', 'mmmm']",0,0
@@ -4467,7 +4467,7 @@ id,keyword,location,text,target,mean
 7164,mudslide,IUPUI '19,"['someone', 'split', 'mudslide', 'get', 'work']",0,0
 7165,mudslide,potters bar,"['love', 'opener', 'still', 'feel', 'guilty', 'gasp', 'giggle', 'mudslide', 'dorret', 'live', 'gbbo']",0,0
 7166,mudslide,"Chiswick, London","['great', 'new', 'recipe', 'mudslide', 'cake', 'sorry', 'stew', 'gbbo']",0,0
-7167,mudslide,London,['mudslide'],1,1
+7167,mudslide,London,"['could', 'mudslide']",1,1
 7168,mudslide,London,"['gbbo', 'difference', 'paul', 'mary', 'dear', 'paul', 'look', 'like', 'mudslide', 'mary', 'feel', 'go', 'taste', 'great']",0,0
 7169,mudslide,the burrow,"['dorette', 'thats', 'name', 'mudslide', 'cake', 'maker']",0,0
 7171,mudslide,,"['rt', 'rabidmonkeys', 'ah', 'unique', 'mudslide', 'cake', 'gbbo']",0,0
@@ -4476,6 +4476,7 @@ id,keyword,location,text,target,mean
 7175,mudslide,,"['fuck', 'paul', 'say', 'cake', 'look', 'like', 'mudslide', 'taste', 'like', 'rubber']",0,0
 7176,mudslide,London,"['first', 'impression', 'glad', 'hat', 'man', 'leave', 'lieu', 'interest', 'lady', 'hope', 'mudslide', 'lady', 'triumph', 'next', 'week']",0,0
 7178,mudslide,Edinburgh,"['ooh', 'feel', 'guilty', 'wish', 'hatman', 'bet', 'mudslide', 'delicious']",0,0
+7179,mudslide,"Holly Springs, NC ",['mudslide'],1,1
 7180,mudslide,,"['british', 'bake', 'great', 'pretty', 'hilarious', 'moment', 'mudslide']",0,0
 7183,mudslide,"London, England","['mudslide', 'nuff', 'say', 'gbbo']",1,1
 7184,mudslide,"Memphis, TN","['oso', 'washington', 'mudslide', 'response', 'interview', 'part']",1,1
@@ -4639,7 +4640,7 @@ id,keyword,location,text,target,mean
 7451,obliteration,,"['would', 'say', 'dead', 'right', 'obliteration']",0,0
 7452,obliteration,Born in Baltimore Living in PA,"['god', 'order', 'obliteration', 'ancient', 'canaanite', 'via']",0,0
 7453,obliteration,"Elizabeth, NJ","['oh', 'teamhennessy', 'nj', 'obliteration', 'round', 'happy', 'birthday', 'colombian', 'festival']",0,0
-7456,obliteration,Canada ,"['need', 'arcade', 'shooter', 'fix', 'cte', 'empty', 'amp', 'run', 'obliteration', 'even', 'buy', 'cod', 'title', 'overprice', 'steam']",0,0
+7456,obliteration,Canada ,"['need', 'arcade', 'shooter', 'fix', 'cte', 'empty', 'amp', 'run', 'obliteration', 'would', 'even', 'buy', 'cod', 'title', 'overprice', 'steam']",0,0
 7457,obliteration,"a feminist, modernist hag.","['get', 'si', 'planet', 'could', 'huge', 'dose', 'obliteration']",1,1
 7458,obliteration,"Glasgow, Scotland","['people', 'concerned', 'slab', 'obliteration', 'scotland', 'labour', 'uk', 'rip', 'apart', 'labourleadership', 'contest']",0,0
 7459,obliteration,Maryland,"['one', 'side', 'set', 'obliteration', 'govt', 'fix', 'far']",0,0
@@ -4678,7 +4679,7 @@ id,keyword,location,text,target,mean
 7523,oil%20spill,,"['refugio', 'oil', 'spill', 'may', 'costlier', 'big', 'project', 'losangelestimes', 'latimes', 'news']",1,1
 7525,oil%20spill,"England, Great Britain.","['national', 'briefing', 'west', 'california', 'spring', 'oil', 'spill', 'estimate', 'grows', 'document', 'release', 'wednesday', 'nyt']",1,1
 7526,oil%20spill,"San Luis Obispo, CA","['plain', 'american', 'pipeline', 'company', 'may', 'spill', 'percent', 'crude', 'oil', 'previously', 'estimate']",1,1
-7527,oil%20spill,"Kamloops, BC","['twon', 'tell', 'respond', 'oil', 'spill', 'trust', 'see', 'sec', 'kamloops']",1,1
+7527,oil%20spill,"Kamloops, BC","['cannotwill', 'tell', 'would', 'respond', 'oil', 'spill', 'trust', 'see', 'sec', 'kamloops']",1,1
 7528,oil%20spill,"Lyallpur, Pakistan","['news', 'refugio', 'oil', 'spill', 'may', 'costlier', 'big', 'project']",1,1
 7529,oil%20spill,,"['slicker', 'oil', 'spill']",0,0
 7530,oil%20spill,,"['plain', 'calif', 'oil', 'spill', 'could', 'large', 'estimate']",1,1
@@ -4742,10 +4743,10 @@ id,keyword,location,text,target,mean
 7657,panic,"Charleston, IL","['plan', 'work', 'panic', 'bc', 'letter', 'like', 'feel', 'like', 'may', 'run', 'letter', 'thought']",0,0
 7659,panic,Narnia,"['add', 'video', 'playlist', 'panic', 'disco', 'girl', 'girl', 'boy', 'official', 'video']",0,0
 7661,panic,,"['drove', 'parent', 'car', 'lmao', 'panic', 'attack', 'wait', 'happen']",0,0
-7662,panic,"Charlotte, NC | KÌ¦ln, NRW","['watch', 'stream', 'bad', 'think', 'could', 'actually', 'walk', 'panic', 'get', 'sick']",1,1
+7662,panic,"Charlotte, NC | KÌ¦ln, NRW","['watch', 'stream', 'bad', 'think', 'could', 'actually', 'walk', 'would', 'panic', 'get', 'sick']",1,1
 7663,panic,,"['laugh', 'talk', 'junk', 'everyone', 'panic', 'mode']",0,0
 7668,panic,"Topeka, KS","['good', 'thing', 'royal', 'face', 'newbie', 'playoff', 'real', 'reason', 'panic']",0,0
-7669,panic,"Philadelphia, PA","['despite', 'cripple', 'anxiety', 'overwhelm', 'panic', 'attack', 'say', 'fairly', 'well', 'adjust']",0,0
+7669,panic,"Philadelphia, PA","['despite', 'cripple', 'anxiety', 'overwhelm', 'panic', 'attack', 'would', 'say', 'fairly', 'well', 'adjust']",0,0
 7670,panic,"Palm Bay, FL (Kissimmee)","['panic', 'patient', 'alabama', 'test', 'negative', 'ebola']",1,1
 7671,panic,Narnia,"['add', 'video', 'playlist', 'panic', 'disco', 'miss', 'jackson', 'ft', 'lolo', 'official', 'video']",0,0
 7672,panic,Manhattan,"['every', 'time', 'feel', 'new', 'pain', 'strain', 'body', 'panic', 'need', 'career']",0,0
@@ -4774,7 +4775,7 @@ id,keyword,location,text,target,mean
 7702,panicking,?,"['hear', 'mumble', 'hear', 'cackle', 'get', 'em', 'scar', 'shook', 'panic']",0,0
 7703,panicking,Singapore,"['make', 'mood', 'go', 'shitty', 'af', 'panic', 'af', 'istg']",0,0
 7707,panicking,Oxford / bristol,"['okay', 'panic']",0,0
-7711,panicking,PARACHUTE,"['idm', 'burn', 'whole', 'gotham', 'city', 'bcs', 'gon', 'na', 'laugh', 'everyone', 'theyre', 'panic']",0,0
+7711,panicking,PARACHUTE,"['idm', 'burn', 'whole', 'gotham', 'city', 'bcs', 'go', 'laugh', 'everyone', 'theyre', 'panic']",0,0
 7712,panicking,Near Warrington,"['certainly', 'great', 'see', 'astroturfers', 'panic', 'thought', 'cross', 'party', 'support', 'crumble']",0,0
 7715,panicking,|-/,"['already', 'panic', 'cry', 'bc', 'stress', 'nice']",0,0
 7717,panicking,,"['people', 'finally', 'panic', 'cable', 'tv']",0,0
@@ -4792,7 +4793,7 @@ id,keyword,location,text,target,mean
 7735,panicking,"McLean, VA","['see', 'people', 'panic', 'orpik']",0,0
 7736,panicking,,"['ay', 'fully', 'panic', 'lol']",0,0
 7737,panicking,,"['let', 'drive', 'truck', 'start', 'panic', 'flip', 'bitch']",0,0
-7738,panicking,,"['gon', 'na', 'lie', 'panic', 'little', 'bit', 'vic', 'hardy', 'freeman', 'practice']",0,0
+7738,panicking,,"['go', 'lie', 'panic', 'little', 'bit', 'vic', 'hardy', 'freeman', 'practice']",0,0
 7742,panicking,,"['stop', 'panic']",0,0
 7743,panicking,Positive 852,"['si', 'sit', 'cam', 'panic']",0,0
 7744,panicking,"Manchester, England","['people', 'panic', 'result', 'day', 'though', 'hahahah', 'like', 'worry', 'go', 'change', 'result']",0,0
@@ -4891,7 +4892,7 @@ id,keyword,location,text,target,mean
 7923,rainstorm,,"['landslide', 'italian', 'alp', 'kill', 'three', 'rome', 'reuters', 'three', 'people', 'kill', 'severe', 'rainstorm', 'th']",1,1
 7924,rainstorm,Federal Capital Territory,"['rainstorm', 'destroys', 'house', 'yobe', 'ireporter', 'via']",1,1
 7926,rainstorm,"La Puente, CA","['stuck', 'rainstorm', 'stay', 'toward', 'middle', 'road', 'street', 'crown', 'water', 'tends', 'pool', 'side']",0,0
-7929,rainstorm,music.,"['major', 'rainstorm', 'happen', 'gon', 'na', 'lie', 'drift', 'away', 'storm', 'around', 'little', 'bebacksoon']",1,1
+7929,rainstorm,music.,"['major', 'rainstorm', 'happen', 'go', 'lie', 'drift', 'away', 'storm', 'around', 'little', 'bebacksoon']",1,1
 7930,rainstorm,online ,"['landslide', 'italian', 'alp', 'kill', 'three', 'rome', 'reuters', 'three', 'people', 'kill', 'severe', 'rainstorm']",1,1
 7932,rainstorm,"Memphis, TN","['roar', 'wave', 'rainstorm', 'amp', 'roll']",0,0
 7933,rainstorm,,"['robot', 'rainstorm', 'two', 'vacancy', 'castle', 'fantasy', 'football', 'team', 'join', 'fun']",0,0
@@ -5082,12 +5083,12 @@ id,keyword,location,text,target,mean
 8274,rioting,,"['rt', 'sweden', 'venezuela', 'day', 'rioting', 'venezuela', 'riot', 'direct', 'gr']",1,1
 8276,rioting,Chicora ?? Oakland,"['rioting', 'happy', 'valley', 'penn', 'state', 'loses']",0,0
 8278,rioting,,"['group', 'mascara', 'smear', 'girl', 'rioting', 'horrific', 'think']",1,1
-8279,rioting,,"['last', 'time', 'high', 'profile', 'name', 'due', 'signing', 'nffc', 'city', 'rioting', 'wesley', 'verhoek', 'household', 'name', 'tpanic']",1,1
+8279,rioting,,"['last', 'time', 'high', 'profile', 'name', 'due', 'signing', 'nffc', 'city', 'rioting', 'wesley', 'verhoek', 'household', 'name', 'notpanic']",1,1
 8280,rioting,"heart of darkness, unholy ?","['alternative', 'legal', 'alternative', 'protest', 'rioting', 'may', 'peaceful', 'thing', 'demonstration']",0,0
 8283,rioting,"Colonial Heights, VA","['sick', 'criminal', 'parent', 'friend', 'rioting', 'kill', 'police', 'give', 'damn', 'officer']",1,1
 8284,rioting,,"['rioting', 'begin', 'prior', 'decision', 'indictment', 'really', 'make', 'sense', 'point']",1,1
 8285,rioting,India,"['ash', 'test', 'match', 'currently', 'interest', 'stupid', 'congress', 'rioting']",1,1
-8286,rioting,The Weird Part of Wonderland,"['people', 'rioting', 'everywhere', 'think', 'one', 'usami', 'san', 'lt']",1,1
+8286,rioting,The Weird Part of Wonderland,"['people', 'rioting', 'everywhere', 'think', 'would', 'one', 'usami', 'san', 'lt']",1,1
 8287,rioting,,"['football', 'hooligan', 'jail', 'rioting', 'game', 'scotland', 'already', 'ban', 'match', 'england', 'uknews']",1,1
 8289,rioting,A little house in the outback.,"['bbcnews', 'british', 'insurer', 'say', 'rioting', 'cost', 'insurer', 'million', 'police', 'number', 'reduce', 'blind', 'fat', 'controller']",1,1
 8291,rioting,Cassadaga Florida,"['live', 'amp', 'family', 'live', 'country', 'looter', 'shot', 'sight', 'rioting', 'tolerate']",1,1
@@ -5133,7 +5134,7 @@ id,keyword,location,text,target,mean
 8367,ruin,Belfast,"['go', 'ruin', 'something', 'awful', 'minion']",0,0
 8368,ruin,fujo garbage heaven ,"['really', 'awful', 'cant', 'even', 'work', 'make', 'artist', 'ruin', 'thing']",0,0
 8369,ruin,New York - Connecticut,"['damn', 'wale', 'know', 'ruin', 'song']",0,0
-8370,ruin,,"['cause', 'play', 'like', 'symphony', 'play', 'till', 'finger', 'bleed', 'great', 'masterpiece', 'ruin']",0,0
+8370,ruin,,"['play', 'like', 'symphony', 'play', 'till', 'finger', 'bleed', 'great', 'masterpiece', 'ruin']",0,0
 8371,ruin,snapchat~ maddzz_babby ,"['family', 'ruin', 'something', 'actually', 'go', 'good']",0,0
 8372,ruin,"2,360 miles away","['hate', 'im', 'awkward', 'ruin', 'thing']",0,0
 8374,ruin,,"['long', 'road', 'ruin', 'foo', 'fighter']",0,0
@@ -5142,13 +5143,13 @@ id,keyword,location,text,target,mean
 8378,ruin,Boston,"['lol', 'real', 'issue', 'way', 'nfl', 'try', 'ruin', 'guy', 'legacy']",0,0
 8382,ruin,Florida Forever,"['rt', 'ruin', 'day']",0,0
 8383,ruin,"Sacramento, CA","['greedy', 'bastard', 'way', 'ruin', 'creativity', 'censorship', 'youtube']",0,0
-8385,ruin,#RedSoxNation,"['gon', 'na', 'ruin', 'game', 'vanessa', 'great', 'player']",0,0
+8385,ruin,#RedSoxNation,"['go', 'ruin', 'game', 'vanessa', 'great', 'player']",0,0
 8386,ruin,MNL,"['yes', 'yes', 'dont', 'wan', 'na', 'ruin', 'life', 'lol']",0,0
 8387,ruin,youtube.com/channel/UCHWTLC9B4ZjUGh7yDlb55Iw,"['wan', 'na', 'see', 'reboot', 'fresh', 'prince', 'bel', 'air', 'bring', 'back', 'original', 'cast', 'everything', 'amp', 'nothing', 'ruin', 'show']",0,0
 8388,ruin,,"['make', 'happy', 'fuck', 'tryna', 'ruin', 'keep', 'smile']",0,0
-8389,ruin,CA ??DC,"['people', 'let', 'ruin', 'life', 'soul', 'cervix', 'everything', 'odell', 'definitely', 'top', 'list']",0,0
+8389,ruin,CA ??DC,"['people', 'would', 'let', 'ruin', 'life', 'soul', 'cervix', 'everything', 'odell', 'definitely', 'top', 'list']",0,0
 8390,ruin,"Des Moines, IA","['ruin', 'life']",0,0
-8391,ruin,"MÌ©rida, YucatÌÁn","['babe', 'gon', 'na', 'ruin', 'let', 'stay']",0,0
+8391,ruin,"MÌ©rida, YucatÌÁn","['babe', 'go', 'ruin', 'let', 'stay']",0,0
 8392,sandstorm,"Scituate, MA","['everything', 'must', 'ok', 'listen', 'sandstorm']",0,0
 8393,sandstorm,USA,"['watch', 'airport', 'get', 'swallow', 'sandstorm', 'minute']",1,1
 8396,sandstorm,United States,"['wouldnt', 'turn', 'sandstorm', 'riot', 'give', 'good', 'answer', 'instead', 'give', 'dumb', 'excuse', 'least', 'new', 'client']",0,0
@@ -5166,7 +5167,7 @@ id,keyword,location,text,target,mean
 8443,screamed,,"['slam', 'phone', 'ground', 'scream', 'ahahahga']",0,0
 8444,screamed,Adventuring in Narnia,"['scream', 'world', 'much', 'love', 'little', 'pony']",0,0
 8445,screamed,,"['update', 'police', 'seem', 'like', 'nice', 'enough', 'people', 'felt', 'bad', 'transform', 'scream', 'worry', 'unconscious']",0,0
-8446,screamed,,"['someone', 'gon', 'na', 'get', 'scream', 'get', 'lyric', 'wrong', 'lmao']",0,0
+8446,screamed,,"['someone', 'go', 'get', 'scream', 'get', 'lyric', 'wrong', 'lmao']",0,0
 8447,screamed,,"['scream', 'sidjsjdjekdjskdjd', 'cant', 'stand']",0,0
 8448,screamed,Asgard,"['loki', 'dagger', 'pull', 'jammed', 'mina', 'thigh', 'mina', 'scream', 'grabbed', 'leg', 'sif']",1,1
 8450,screamed,"San Diego, CA","['omfg', 'didnt', 'expect', 'drag', 'first', 'song', 'pandora', 'played', 'omfg', 'scream', 'loud', 'coworker', 'scar']",1,1
@@ -5177,7 +5178,7 @@ id,keyword,location,text,target,mean
 8455,screamed,"Charlotte, North Carolina","['thought', 'loud', 'goal', 'ever', 'scream', 'higuain', 'offside', 'goal', 'germany']",0,0
 8457,screamed,,"['ran', 'earbuds', 'realize', 'mean', 'probably', 'politely', 'say', 'hi', 'jared', 'less', 'scream']",0,0
 8458,screamed,,"['get', 'scream', 'ask', 'dad', 'move', 'half', 'step', 'could', 'get']",0,0
-8459,screamed,Nirvana,"['dead', 'scream', 'sign', 'fuck', 'believe']",0,0
+8459,screamed,Nirvana,"['dead', 'scream', 'sign', 'could', 'fuck', 'believe']",0,0
 8461,screamed,,"['stop', 'believe', 'come', 'radio', 'restaurant', 'lil', 'white', 'bit', 'scream', 'mommy', 'song']",0,0
 8463,screamed,ny,"['brooke', 'face', 'time', 'concert', 'scream', 'minute', 'straight']",0,0
 8464,screamed,Mentor OH,"['want', 'make', 'tweet', 'much', 'dislike', 'today', 'femnism', 'movement', 'want', 'scream']",0,0
@@ -5306,7 +5307,7 @@ id,keyword,location,text,target,mean
 8665,sinkhole,Êwagger!ÌominicanÌ÷,"['lomasvisto', 'thousand', 'hipster', 'fear', 'lose', 'giant', 'sinkhole', 'devours', 'brooklyn', 'intersectio', 'cadenadeseguidores']",1,1
 8668,sinkhole,USA,"['sinkhole', 'disrupts', 'downtown', 'trolley', 'service', 'sandiego']",1,1
 8669,sinkhole,,"['sinkhole', 'swallow', 'brooklyn', 'intersection', 'video']",1,1
-8670,sinkhole,hell,"['could', 'die', 'fall', 'sinkhole', 'still', 'blame']",0,0
+8670,sinkhole,hell,"['could', 'die', 'fall', 'sinkhole', 'would', 'still', 'blame']",0,0
 8673,sinkhole,Texas af,"['damn', 'sinkhole', 'sunset']",1,1
 8674,sinkhole,San Diego California 92101,"['water', 'main', 'break', 'disrupts', 'trolley', 'service', 'sandiego']",1,1
 8676,sinkhole,"San Diego, CA","['rt', 'twit', 'san', 'diego', 'possible', 'sinkhole', 'disrupts', 'trolley', 'service', 'depression', 'portion', 'asphalt', 'downtown', 'sa']",1,1
@@ -5421,13 +5422,13 @@ id,keyword,location,text,target,mean
 8840,sirens,"Ventura, Ca","['kyle', 'one', 'last', 'people', 'would', 'expect', 'like', 'sleep', 'siren']",0,0
 8841,sirens,,"['run', 'siren', 'half', 'hour', 'hotel', 'premium', 'promotion', 'offer']",0,0
 8842,smoke,,"['wrong', 'lil', 'smoke', 'good', 'conversation']",0,0
-8843,smoke,,"['smoke', 'brooo']",0,0
+8843,smoke,,"['would', 'smoke', 'brooo']",0,0
 8844,smoke,"Arlington, TX","['barely', 'smoke', 'people', 'solo', 'blunts']",0,0
 8846,smoke,Rio de Janeiro,"['smoke', 'whatever', 'get']",0,0
 8848,smoke,"MedellÌ_n, Antioquia","['smoke', 'weed', 'snoop', 'lion', 'ft', 'collie', 'buddz']",0,0
 8850,smoke,,"['girl', 'smoke', 'notice', 'start', 'lose', 'alot', 'weight', 'hmmm', 'know', 'body', 'want', 'thin', 'girl', 'tf']",0,0
 8851,smoke,,"['smoke', 'baby', 'lay', 'baby', 'laugh', 'baby', 'want', 'simple', 'thing']",0,0
-8852,smoke,,"['im', 'gon', 'na', 'get', 'naked', 'smoke', 'cigarette', 'someone', 'call', 'radneck', 'hot']",0,0
+8852,smoke,,"['im', 'go', 'get', 'naked', 'smoke', 'cigarette', 'someone', 'call', 'radneck', 'hot']",0,0
 8853,smoke,BrowardCounty // Florida ,"['smoke', 'alot', 'weed', 'like', 'fuck', 'kidney', 'put', 'dutch']",0,0
 8854,smoke,,"['like', 'pipe', 'make', 'peanut', 'butter', 'pipe', 'smoke', 'peanut', 'butter']",0,0
 8855,smoke,,"['want', 'smoke']",0,0
@@ -5534,7 +5535,7 @@ id,keyword,location,text,target,mean
 9018,stretcher,,"['sweater', 'stretcher']",0,0
 9020,stretcher,Docker container,"['stretcher', 'min', 'speaker', 'deck']",0,0
 9022,stretcher,,['stop'],0,0
-9023,stretcher,"Asheville, NC","['know', 'well', 'think', 'get', 'anything', 'hour', 'capoeira', 'class', 'stretcher', 'bearer']",0,0
+9023,stretcher,"Asheville, NC","['know', 'well', 'think', 'would', 'get', 'anything', 'hour', 'capoeira', 'class', 'stretcher', 'bearer']",0,0
 9025,stretcher,Taylor Swift,"['ben', 'favorited']",0,0
 9026,stretcher,DMV,"['put', 'stretcher', 'want', 'see']",0,0
 9027,stretcher,philly ,"['lately', 'stress', 'make', 'wan', 'na', 'put', 'fuck', 'nigga', 'stretcher']",0,0
@@ -5623,7 +5624,7 @@ id,keyword,location,text,target,mean
 9192,suicide%20bombing,,"['taught', 'school', 'piracy', 'slavery', 'suicide', 'bombing', 'purely', 'historical', 'one', 'expect', 'occur']",1,1
 9193,suicide%20bombing,,"['suicide', 'bombing', 'suru', 'kill', 'people', 'turkey', 'launch', 'airstrikes', 'isil', 'kurdistan', 'worker', 'party', 'camp', 'iraq']",1,1
 9194,suicide%20bombing,Australia,"['lesson', 'suicide', 'bombing', 'imam']",1,1
-9195,suicide%20bombing,"Minority Privilege, USA","['usually', 'agree', 'whole', 'chop', 'head', 'throw', 'gay', 'rooftop', 'amp', 'suicide', 'bombing', 'start']",1,1
+9195,suicide%20bombing,"Minority Privilege, USA","['usually', 'would', 'agree', 'whole', 'chop', 'head', 'throw', 'gay', 'rooftop', 'amp', 'suicide', 'bombing', 'start']",1,1
 9197,suicide%20bombing,England,"['suicide', 'bombing', 'da', 'esh', 'rightly', 'despicable', 'suicide', 'bombing', 'ocalan', 'marxism', 'share', 'value']",1,1
 9203,suicide%20bombing,,"['lt', 'dead', 'kuwait', 'mosque', 'suicide', 'bombing', 'claimed', 'isi', 'offshoot']",1,1
 9206,suicide%20bombing,,"['suicide', 'bombing', 'fear', 'die', 'alone']",1,1
@@ -5680,7 +5681,7 @@ id,keyword,location,text,target,mean
 9277,sunk,Wisconsin,"['court', 'reputation', 'prestige', 'sunk', 'ever', 'low', 'prosser', 'serve', 'court', 'since']",0,0
 9278,sunk,NYC,"['lt', 'lt', 'lip', 'sunk', 'bed', 'arm', 'cross', 'behind', 'head', 'watch', 'captain', 'number', 'body']",0,0
 9280,sunk,,"['high', 'time', 'tv', 'channel', 'realise', 'level', 'sunk', 'trp', 'ad', 'become', 'mockery']",0,0
-9281,sunk,Gloucester,"['sunk', 'sub']",0,0
+9281,sunk,Gloucester,"['would', 'sunk', 'sub']",0,0
 9283,sunk,"San Jose, CA","['like', 'never', 'left', 'sunk', 'background']",0,0
 9286,sunk,i beg vines sorry ,"['fuck', 'sake', 'john', 'jesus', 'heart', 'sunk']",1,1
 9287,sunk,,"['felt', 'bad', 'romero', 'care', 'mental', 'stuff', 'sunk', 'career', 'worry', 'thing', 'happen', 'hutch', 'bluejays']",0,0
@@ -5697,7 +5698,7 @@ id,keyword,location,text,target,mean
 9301,survive,,"['much', 'shit', 'happen', 'today', 'wtf', 'idk', 'survive', 'thruuu']",1,1
 9303,survive,"Fountain City, IN ","['end', 'today', 'staff', 'meeting', 'teacher', 'version', 'survive', 'tootrue']",0,0
 9307,survive,"gaffney, sc ","['survive', 'without', 'dorrian']",0,0
-9308,survive,,"['survive', 'tonight', 'change', 'one', 'thing']",0,0
+9308,survive,,"['survive', 'tonight', 'would', 'change', 'one', 'thing']",0,0
 9309,survive,,"['thing', 'affiliate', 'marketer', 'need', 'survive', 'online', 'every', 'affiliate', 'marketer', 'always']",0,0
 9311,survive,"???????, Texas","['make', 'fun', 'try', 'survive', 'racist', 'elitist', 'country']",0,0
 9313,survive,United States,"['learn', 'grow', 'become', 'strong', 'face', 'survive', 'trial', 'must', 'pas', 'thomassmonson', 'lds', 'mormon']",0,0
@@ -5737,7 +5738,7 @@ id,keyword,location,text,target,mean
 9367,survived,"Port Harcourt, Nigeria","['nigerian', 'boxer', 'survive', 'session', 'klitschko', 'becomes', 'famous', 'youtube']",0,0
 9368,survived,"Predjama, Eslovenia.","['lonely', 'day', 'mine', 'day', 'glad', 'survive']",0,0
 9371,survived,Pakistan,"['would', 'survive', 'without', 'mute', 'option', 'whatsapp']",0,0
-9372,survived,Tn,"['twin', 'survive', 'first', 'day', 'high', 'school', 'gon', 'na', 'great', 'year', 'makinmemories']",0,0
+9372,survived,Tn,"['twin', 'survive', 'first', 'day', 'high', 'school', 'go', 'great', 'year', 'makinmemories']",0,0
 9373,survived,,"['well', 'dad', 'survive', 'drive']",0,0
 9374,survived,,"['grace', 'god', 'survive', 'shift', 'im', 'tire']",0,0
 9375,survived,South Asia,"['plant', 'year', 'ago', 'move', 'bonsai', 'survive', 'hiroshima', 'story', 'nearly', 'lose', 'via']",1,1
@@ -5833,7 +5834,7 @@ id,keyword,location,text,target,mean
 9541,terrorist,Iraq|Afghanistan| RSA |Baghdad,"['say', 'woman', 'get', 'problem', 'keepingtheviginaclean', 'thing', 'interest', 'less', 'expensive', 'metrofmtalk']",0,0
 9542,threat,Everywhere,"['build', 'share', 'custom', 'application', 'within', 'tc', 'exchange', 'infosec', 'dfir', 'threatintel']",0,0
 9547,threat,,"['end', 'australia', 'best', 'burger', 'via']",0,0
-9548,threat,Hyrule,"['large', 'moblin', 'leave', 'big', 'one', 'red', 'fire', 'one', 'strike', 'already', 'threat', 'reduce', 'gt']",0,0
+9548,threat,Hyrule,"['large', 'moblin', 'would', 'leave', 'big', 'one', 'red', 'fire', 'one', 'strike', 'already', 'threat', 'reduce', 'gt']",0,0
 9550,threat,front row at a show,"['white', 'american', 'big', 'threat', 'world', 'duh']",0,0
 9551,threat,"Ohio, USA","['warn', 'expect', 'threat', 'soul']",0,0
 9552,threat,"London, UK","['generational', 'british', 'schism', 'privacy', 'threat', 'drone', 'drone', 'privacy']",0,0
@@ -6007,7 +6008,7 @@ id,keyword,location,text,target,mean
 9826,trauma,,"['trauma', 'injury', 'involve', 'kid', 'sport', 'usually', 'cycling', 'related', 'cbc', 'ca']",1,1
 9828,trauma,,"['butt', 'trauma', 'extraordinaire']",1,1
 9829,trauma,Los Angeles New York,"['author', 'interview', 'michele', 'rosenthal', 'author', 'life', 'trauma']",0,0
-9830,trauma,www.aprylpooley.com,"['start', 'write', 'talk', 'trauma', 'therapy', 'way', 'could', 'communicate', 'gravitychat']",0,0
+9830,trauma,www.aprylpooley.com,"['start', 'write', 'could', 'talk', 'trauma', 'therapy', 'way', 'could', 'communicate', 'gravitychat']",0,0
 9831,trauma,,"['civil', 'right', 'continued', 'trans', 'generational', 'trauma', 'anything', 'listen', 'american']",0,0
 9832,trauma," Little Rock, AR","['childhood', 'trauma', 'resolve', 'actual', 'trauma', 'fricken', 'baby']",0,0
 9833,trauma,The Jewfnited State,"['marijuana', 'critical', 'research', 'treat', 'ptsd', 'hempoil', 'cannabis', 'marijuana']",0,0
@@ -6039,7 +6040,7 @@ id,keyword,location,text,target,mean
 9873,traumatised,,"['kid', 'orphanage', 'obviously', 'traumatise']",0,0
 9874,traumatised,,"['wow', 'lot', 'traumatise', 'kid']",0,0
 9875,traumatised,South Africa,"['yessum', 'traumatise']",0,0
-9877,traumatised,Tunbridge Wells,"['traumatise', 'ok', 'car', 'go', 'gbbo', 'relax']",0,0
+9877,traumatised,Tunbridge Wells,"['would', 'traumatise', 'ok', 'car', 'go', 'gbbo', 'relax']",0,0
 9878,traumatised,lowestoft,"['funny', 'im', 'traumatise']",0,0
 9881,traumatised,,"['proper', 'traumatise', 'pepper', 'dead', 'wait', 'see', 'face']",0,0
 9883,traumatised,,"['traumatise', 'im']",1,1
@@ -6079,7 +6080,7 @@ id,keyword,location,text,target,mean
 9938,trouble,on twitter ,"['trouble', 'live']",0,0
 9940,trouble,,"['prez', 'mr', 'president', 'big', 'terrorist', 'trouble', 'maker', 'world', 'create', 'terrorist', 'sponsor', 'terrorist']",1,1
 9941,trouble,,"['bad', 'voice', 'ever', 'hear', 'nikki', 'trouble', 'voice', 'mom']",0,0
-9942,trouble,,"['yeah', 'well', 'maybe', 'barber', 'cut', 'hair', 'short', 'top', 'go', 'egg', 'trouble']",0,0
+9942,trouble,,"['yeah', 'well', 'maybe', 'barber', 'cut', 'hair', 'short', 'top', 'would', 'go', 'egg', 'trouble']",0,0
 9943,trouble,,"['love', 'get', 'trouble', 'people', 'house', 'still', 'trash']",0,0
 9944,trouble,Wolverhampton,"['hello', 'wud', 'kindly', 'consider', 'follow', 'bak', 'please', 'never', 'trouble', 'lol', 'many', 'thanks']",0,0
 9945,trouble,North Carolina ,"['bc', 'always', 'get', 'trouble', 'laugh', 'much']",0,0
@@ -6305,7 +6306,7 @@ id,keyword,location,text,target,mean
 10296,weapon,,"['cat', 'nine', 'iron', 'xii', 'nightmarishly', 'brutal', 'weapon', 'use', 'ritualistic', 'country', 'club', 'de']",1,1
 10297,weapon,Massachusetts,"['upload', 'video', 'asap', 'guy', 'get', 'see', 'new', 'weapon', 'type', 'action']",0,0
 10299,weapon,,"['gun', 'firearm', 'weapon', 'vector', 'clip', 'art', 'vinyl', 'sign', 'cutter', 'rifle', 'gun', 'weapon']",0,0
-10301,weapon,"Halifax, NS, Canada","['use', 'weapon', 'cause', 'might', 'screw', 'xd']",0,0
+10301,weapon,"Halifax, NS, Canada","['use', 'weapon', 'might', 'screw', 'xd']",0,0
 10302,weapon,"UK,singer,songwriter,?2 act","['hey', 'guy', 'thanks', 'rock', 'world', 'follow']",0,0
 10303,weapon,"kediri,,jawa timur","['believe', 'blue', 'isi', 'kwwwkwwwk', 'without', 'weapon', 'blue', 'hug', 'jiahahahha', 'yeyeulala']",0,0
 10304,weapon,MI - CA,"['iranian', 'warship', 'point', 'weapon', 'helicopter', 'official', 'say', 'tcot']",1,1
@@ -6318,7 +6319,7 @@ id,keyword,location,text,target,mean
 10315,weapon,?????,"['abe', 'government', 'make', 'clear', 'grenade', 'weapon']",1,1
 10316,weapon,,"['weapon', 'im', 'scar', 'karma']",0,0
 10317,weapon,"CT, USA","['hate', 'shatter', 'delusion', 'hatchet', 'deadly', 'weapon', 'justify', 'lethal', 'force', 'gunsense']",0,0
-10318,weapon,,"['even', 'weapon', 'badge', 'gon', 'na', 'put', 'choppas']",1,1
+10318,weapon,,"['even', 'weapon', 'badge', 'go', 'put', 'choppas']",1,1
 10320,weapon,www.twitch.tv/PKSparkxx,"['slosher', 'goat', 'freak', 'love', 'weapon', 'wait', 'episode', 'splatdown', 'switch', 'splatling', 'gun']",0,0
 10321,weapon,statesboro/vidalia,"['busy', 'finish', 'weapon', 'design']",0,0
 10322,weapon,"New Jersey, usually","['yeah', 'splatoon', 'still', 'lot', 'fun', 'default', 'splattershot', 'jr', 'still', 'weapon', 'layout', 'good']",0,0
@@ -6549,7 +6550,7 @@ id,keyword,location,text,target,mean
 10658,wounds,"iPhone: 33.104393,-96.628624","['post', 'pic', 'wound', 'please']",0,0
 10659,wounds,,"['puncture', 'wound']",0,0
 10660,wounds,United States,"['wound', 'kiss', 'someone', 'see', 'disaster', 'soul', 'rather', 'crack', 'pour', 'love', 'amaze']",0,0
-10662,wounds,The American Wasteland (MV),"['vault', 'could', 'take', 'look', 'wound', 'like', 'go', 'one', 'place', 'first', 'zarry']",0,0
+10662,wounds,The American Wasteland (MV),"['vault', 'could', 'take', 'look', 'wound', 'would', 'like', 'go', 'one', 'place', 'first', 'zarry']",0,0
 10663,wounds,,"['cut', 'celebrety', 'post', 'wound', 'online', 'go']",0,0
 10665,wounds,"Cleveland, OH","['time', 'heals', 'wound', 'come', 'belly', 'button', 'stay']",0,0
 10666,wounds,Cape Town,"['thought', 'surgical', 'wound', 'heal', 'weather', 'help', 'either']",0,0
@@ -6639,8 +6640,8 @@ id,keyword,location,text,target,mean
 10810,wrecked,6,"['lol', 'get', 'wreck']",0,0
 10811,wrecked,,"['wreck', 'whole', 'world']",0,0
 10812,wrecked,,"['wreck', 'stomach', 'help']",0,0
-10813,wrecked,,"['gon', 'na', 'think', 'get', 'shit', 'wreck', 'first', 'day', 'school']",0,0
-10814,wrecked,,"['wreck', 'tire', 'gon', 'na', 'asleep']",0,0
+10813,wrecked,,"['go', 'think', 'get', 'shit', 'wreck', 'first', 'day', 'school']",0,0
+10814,wrecked,,"['wreck', 'tire', 'go', 'asleep']",0,0
 10815,wrecked,United States,"['cramer', 'iger', 'word', 'wreck', 'disney', 'stock']",0,0
 10817,wrecked,At your back,"['wreck', 'emotion']",0,0
 10818,wrecked,,"['riddler', 'would', 'best', 'early', 'exit', 'primary', 'presidential', 'wannabe', 'ever', 'certain', 'chance', 'get', 'wreck', 'rich', 'guy']",0,0
