@@ -304,7 +304,6 @@ id,keyword,location,text,target,mean
 493,armageddon,#FLIGHTCITY UK  ,"['official', 'vid', 'thereal', 'gt', 'gt', 'gt', 'gt', 'gt', 'gt', 'gt', 'gt', 'gt', 'armageddon', 'comin', 'soon']",0,0
 495,armageddon,Perthshire ,"['well', 'celtic', 'finger', 'cross', 'aberdeen', 'tomorrow', 'night', 'armageddon', 'eh']",0,0
 496,army,,"['beyonce', 'pick', 'fan', 'army', 'beyhive']",0,0
-498,army,,"['one', 'direction', 'pick', 'fan', 'army', 'directioners']",0,0
 499,army,,"['second', 'summer', 'pick', 'fan', 'army', 'sosfam']",0,0
 504,army,twitch.tv/naturalemblem26,"['see', 'army', 'whitewalkers', 'first', 'thing', 'slightly', 'intrigue', 'get', 'far']",0,0
 506,army,cyprus,"['build', 'kingdom', 'lead', 'army', 'victory', 'start', 'friend', 'code', 'lzktjnox']",0,0
@@ -468,7 +467,6 @@ id,keyword,location,text,target,mean
 802,battle,,"['baaaack', 'petersen', 'bowhunting', 'battle', 'bow', 'make', 'sure', 'head', 'cast', 'vote']",0,0
 803,battle,,"['tb', 'throwback', 'want', 'battle', 'war']",0,0
 804,battle,"San Jose, CA","['kelby', 'tomlinson', 'mild', 'mannered', 'nd', 'baseman', 'great', 'metropolitan', 'team', 'fight', 'never', 'end', 'battle', 'hit', 'rbi', 'sfgiants', 'way']",0,0
-805,battle,USA,"['black', 'eye', 'space', 'battle', 'occur', 'star', 'involve', 'fleet', 'total', 'ship', 'destroyed']",1,0
 806,battle,San Francisco,"['really', 'happen', 'take', 'king', 'story', 'trailer', 'space', 'battle', 'ripped', 'hole', 'saturn']",0,0
 807,battle,,"['battle', 'animation', 'fuck', 'much']",0,0
 808,battle,"Dallas, TX","['see', 'happens', 'battle', 'block', 'finally']",0,0
@@ -486,7 +484,6 @@ id,keyword,location,text,target,mean
 829,bioterror,Washington D.C.,"['news', 'fedex', 'longer', 'transport', 'bioterror', 'germ', 'wake', 'anthrax', 'lab', 'mishap']",1,1
 832,bioterror,NC,"['fedex', 'longer', 'transport', 'bioterror', 'germ', 'via']",0,0
 833,bioterror,,"['usa', 'today', 'longer', 'transport', 'bioterror', 'pathogen', 'newsintweets']",0,0
-834,bioterror,"West Virginia, USA","['fedex', 'longer', 'transport', 'bioterror', 'germ', 'wake', 'anthrax', 'lab', 'mishap', 'via']",1,1
 835,bioterror,,"['jacksonville', 'busines', 'fedex', 'stop', 'shipping', 'potential', 'bioterror', 'pathogen']",1,1
 836,bioterror,British girl in Texas,"['fedex', 'longer', 'transport', 'bioterror', 'pathogen', 'wake', 'anthrax', 'lab', 'mishap']",0,0
 837,bioterror,"Silver Spring, MD","['responds', 'fedex', 'longer', 'transport', 'bioterror', 'germ', 'wake', 'anthrax', 'lab', 'mishap']",1,1
@@ -499,7 +496,6 @@ id,keyword,location,text,target,mean
 849,bioterror,,"['fedex', 'longer', 'transport', 'bioterror', 'germ', 'wake', 'anthrax', 'lab', 'mishap', 'news', 'phone', 'apple', 'mobile']",1,1
 851,bioterror,United States,"['rt', 'alisonannyoung', 'exclusive', 'fedex', 'longer', 'transport', 'research', 'specimen', 'bioterror', 'pathogen', 'wake', 'anthrax', 'lab', 'mishap']",0,0
 852,bioterror,"Oxford, MS","['hmm', 'could', 'problem', 'researcher', 'fedex', 'longer', 'transport', 'select', 'agent', 'via']",1,1
-856,bioterror,US,"['fedex', 'longer', 'transport', 'bioterror', 'germ', 'wake', 'anthrax', 'lab', 'mishap']",1,1
 857,bioterror,"Atlanta, GA","['fedex', 'longer', 'ship', 'potential', 'bioterror', 'pathogen', 'fedex', 'corp', 'nyse', 'fdx', 'longer', 'deliver', 'package']",1,1
 859,bioterror,,"['fedex', 'longer', 'ship', 'potential', 'bioterror', 'pathogen', 'atlanta', 'business', 'chronicle']",0,0
 860,bioterror,"Pelham, AL","['thank', 'longer', 'shipping', 'live', 'microbe', 'department', 'defense']",0,0
@@ -858,7 +854,6 @@ id,keyword,location,text,target,mean
 1396,body%20bag,New York,"['new', 'lady', 'shoulder', 'tote', 'handbag', 'faux', 'leather', 'hobo', 'purse', 'cross', 'body', 'bag', 'woman', 'full', 'read']",0,0
 1399,body%20bag,New York,"['auth', 'louis', 'vuitton', 'brown', 'saumur', 'cross', 'body', 'shoulder', 'bag', 'monogram', 'full', 'read']",0,0
 1401,body%20bag,,"['check', 'vintage', 'longaberger', 'floral', 'fabric', 'shoulder', 'cross', 'body', 'bag', 'brown', 'leather', 'strap']",0,0
-1402,body%20bag,Paignton,"['new', 'lady', 'shoulder', 'tote', 'handbag', 'faux', 'leather', 'hobo', 'purse', 'cross', 'body', 'bag', 'woman']",0,0
 1408,body%20bag,,"['new', 'woman', 'handbag', 'faux', 'leather', 'lady', 'shoulder', 'tote', 'cross', 'body', 'bag', 'large', 'satchel', 'full']",0,0
 1411,body%20bag,,"['one', 'day', 'heart', 'go', 'get', 'zipped', 'body', 'bag']",0,0
 1412,body%20bag,,"['handbag', 'fashion', 'style', 'authentic', 'louis', 'vuitton', 'pochette', 'bosphore', 'shoulder', 'cross', 'body', 'bag']",0,0
@@ -1839,7 +1834,6 @@ id,keyword,location,text,target,mean
 2916,danger,"Brooklyn, NY","['take', 'away', 'preservation', 'park', 'imposition', 'amp', 'danger', 'african', 'people', 'never', 'imagine']",0,0
 2917,danger,Lahar & Gwalior,"['indian', 'govt', 'amp', 'medium', 'take', 'serious', 'concern', 'safety', 'danger']",1,1
 2920,danger,"St Paul, MN","['training', 'grain', 'wheat', 'bare', 'gold', 'august', 'heat', 'anger', 'trespass', 'seek', 'danger']",0,0
-2921,danger,Atlanta Georgia ,"['fettilootch', 'slanglucci', 'oppression', 'great', 'danger', 'come', 'soon', 'album']",0,0
 2922,danger,,"['appear', 'govt', 'lose', 'ethical', 'moral', 'relevance', 'mean', 'whole', 'usa', 'population', 'danger']",0,0
 2924,danger,"Lincoln, IL","['like', 'head', 'first', 'slide', 'especially', 'home', 'danger']",0,0
 2925,danger,World,"['permit', 'bear', 'hunt', 'danger', 'outnumber', 'actual', 'bear', 'license', 'florida', 'fir', 'st', 'petersburg']",0,0
@@ -2148,7 +2142,6 @@ id,keyword,location,text,target,mean
 3400,demolition,San Jose,"['san', 'jose', 'demolition', 'willow', 'glen', 'trestle', 'put', 'legal', 'battle', 'continue']",0,0
 3401,demolition,,"['canberra', 'first', 'mr', 'fluffy', 'home', 'demolition', 'schedule', 'release']",0,0
 3402,demolition,"ÌøåÀå_T: 40.736324,-73.990062","['shame', 'take', 'em', 'intrigue', 'dominant', 'force', 'jobbing', 'list', 'demolition']",0,0
-3403,derail, Road to the Billionaires Club,"['gm', 'pray', 'attack', 'enemy', 'derail', 'ur', 'destiny', 'block', 'lord', 'amp', 'flood', 'ur', 'life', 'heavenly', 'blessing']",0,0
 3404,derail,"Washington, D.C.","['cause', 'metro', 'train', 'derail', 'downtown']",1,1
 3405,derail,"Washington, DC 20009","['let', 'wmata', 'metro', 'derail', 'day', 'get', 'text', 'every', 'morn', 'wake', 'best', 'route', 'work', 'sm']",0,0
 3408,derail,,"['totally', 'agree', 'know', 'birth', 'control', 'say', 'true', 'want', 'derail', 'plan', 'blame', 'fan']",0,0
@@ -2528,7 +2521,6 @@ id,keyword,location,text,target,mean
 4047,disaster,Morocco,"['add', 'fez', 'weather', 'equation', 'best', 'recipe', 'disaster']",0,0
 4049,displaced,Pedophile hunting ground,"['myanmar', 'displace', 'rohingya', 'sittwe', 'point', 'return', 'prison', 'like', 'condition', 'genocide', 'ihhen', 'msf', 'refugee']",1,1
 4050,displaced,,"['crew', 'day', 'boarding', 'window', 'park', 'galleria', 'apts', 'fire', 'displace']",1,1
-4051,displaced,U.S.,"['potus', 'strategicpatience', 'strategy', 'genocide', 'refugee', 'idp', 'internally', 'displace', 'people', 'horror', 'etc']",1,1
 4052,displaced,Visit our  dedicated website @,"['dead', 'injured', 'displace', 'syria', 'visit', 'canada']",1,1
 4054,displaced,Asia Pacific   ,"['myanmar', 'displace', 'rohingya', 'sittwe', 'point', 'return', 'prison', 'like', 'conditionsprivation']",1,1
 4055,displaced,North Carolina,"['much', 'shit', 'go', 'head', 'rather', 'talk', 'outburst', 'displace', 'aggression', 'sux']",0,0
@@ -3295,7 +3287,6 @@ id,keyword,location,text,target,mean
 5218,fatality,NY,"['savage', 'leak', 'thomas', 'brady', 'gangstermail', 'account', 'wonder', 'quick', 'fatality', 'samsung', 'mobile', 'real', 'son']",0,0
 5219,fatality,Hueco Mundo,"['like', 'video', 'sn', 'vabengal', 'sw', 'fatality', 'captain', 'falcon']",0,0
 5220,fatality,,"['hibernate', 'pbx', 'irrespective', 'pitch', 'fatality', 'careerism', 'pan', 'crbzfz']",0,0
-5221,fatality,Nairobi,['fatality'],0,0
 5222,fatality,Boston Û¢ Cape Cod ?,"['die', 'lyme', 'disease', 'case', 'fatality', 'rate', 'nearly']",1,1
 5223,fatality,,"['fatality', 'like', 'corpse', 'still', 'jittering']",1,1
 5226,fatality,,"['wow', 'fatality', 'big', 'rig', 'hit', 'motorcyclist', 'blood', 'everywhere', 'wow', 'sick']",1,1
@@ -3523,10 +3514,8 @@ id,keyword,location,text,target,mean
 5559,flattened,Rocketing through the galaxy,"['ever', 'see', 'far', 'dreamy', 'look', 'come', 'face', 'ear', 'flatten', 'start', 'walk', 'slowly', 'toward']",1,1
 5561,flood,boston,"['fizzy', 'sit', 'regular', 'flood', 'seat', 'one', 'know']",0,0
 5563,flood,United States,"['jkl', 'cancel', 'flash', 'flood', 'warn', 'bell', 'harlan', 'knox', 'ky', 'wx']",1,1
-5564,flood,New York,"['spot', 'flood', 'combo', 'inch', 'curve', 'cree', 'lead', 'work', 'light', 'bar', 'offroad', 'fog', 'lamp', 'full']",1,0
 5567,flood,"Warrandyte, Australia","['small', 'flood', 'big', 'consequence']",1,1
 5569,flood,"British Columbia, Canada","['homecoming', 'queen', 'kill', 'way', 'home', 'prom', 'flood', 'water', 'socialnews']",1,1
-5570,flood,,"['pc', 'cree', 'lead', 'work', 'light', 'offroad', 'lamp', 'car', 'truck', 'boat', 'mining', 'wd', 'flood', 'beam', 'full', 'rea']",0,0
 5573,flood,,"['rain', 'since', 'left', 'drown', 'flood', 'see', 'always', 'fighter', 'without', 'give']",0,0
 5575,flood,Aix-en-Provence/Utrecht,"['yet', 'still', 'many', 'fish', 'die', 'worldwide', 'flood', 'wonder']",0,0
 5576,flood,Philadelphia,"['please', 'flood', 'poor', 'mention', 'put', 'work']",1,1
@@ -3903,7 +3892,6 @@ id,keyword,location,text,target,mean
 6185,hijacker,,"['governor', 'allows', 'parole', 'school', 'bus', 'hijacker', 'liveleakfun']",1,1
 6187,hijacker,San Francisco,"['governor', 'allows', 'parole', 'california', 'school', 'bus', 'hijacker', 'kidnap', 'child']",1,1
 6188,hijacker,San Francisco Bay Area,"['gov', 'brown', 'allows', 'parole', 'chowchilla', 'school', 'bus', 'hijacker', 'james', 'schoenfeld']",0,0
-6191,hijacker,"Louisville, KY","['remove', 'linkury', 'browser', 'hijacker']",1,0
 6192,hijacker,Southern California,"['san', 'jose', 'mercury', 'governor', 'brown', 'allows', 'parole', 'california', 'school', 'bus', 'hijacker']",0,0
 6195,hijacker,,"['hijacker', 'turn', 'sat', 'tutor', 'evade', 'authority', 'three', 'decade', 'via']",1,1
 6196,hijacker,,"['governor', 'allows', 'parole', 'school', 'bus', 'hijacker']",1,1
@@ -3925,7 +3913,6 @@ id,keyword,location,text,target,mean
 6234,hijacker,,"['governor', 'allows', 'parole', 'california', 'school', 'bus', 'hijacker', 'santa', 'cruz', 'sentinel']",1,1
 6240,hijacking,,"['murderous', 'story', 'america', 'first', 'hijack']",1,1
 6241,hijacking,"South Pasadena, CA","['example', 'use', 'even', 'bad', 'caf', 'try', 'market', 'hashtag', 'hijack']",0,0
-6243,hijacking,"perth, australia ","['hot', 'funtenna', 'hijack', 'computer', 'send', 'data', 'sound', 'wave', 'black', 'hat', 'prebreak', 'best']",0,0
 6247,hijacking,World,"['murderous', 'story', 'america', 'first', 'hijack', 'earnest', 'pletch', 'cold', 'blood', 'kill']",1,1
 6257,hijacking,IN our hearts  Earth Global ,"['hijack', 'electric', 'skateboard', 'make', 'safer']",0,0
 6258,hijacking,,"['good', 'samaritan', 'shot', 'horror', 'hijack', 'johannesburg', 'amp', 'mdash', 'four', 'men', 'shot', 'dead', 'bronville', 'free', 'state']",1,1
@@ -3966,7 +3953,6 @@ id,keyword,location,text,target,mean
 6332,hostage,,"['held', 'hostage']",0,0
 6334,hostage," Eugene, Oregon","['dysfunctional', 'mcconnell', 'plan', 'hold', 'judicial', 'nomination', 'hostage', 'another', 'example', 'gop', 'govern']",0,0
 6335,hostages,THANJAVUR,"['hostage', 'libya', 'remain', 'unharmed', 'government', 'source', 'wednesday', 'deny', 'report', 'two', 'indian', 'national']",1,1
-6336,hostages,Japan,"['hot', 'specially', 'modify', 'land', 'stadium', 'rescue', 'hostage', 'iran', 'prebreak', 'best']",1,1
 6338,hostages,,"['read', 'american', 'life', 'first', 'chronicle', 'freeamirnow', 'freeallfour', 'hostage', 'held', 'iran', 'irandeal']",1,1
 6339,hostages,"Cumming, GA","['specially', 'modify', 'land', 'stadium', 'rescue', 'hostage', 'iran']",1,1
 6340,hostages,westwestwestwestwestwestwest,"['russia', 'stood', 'cold', 'war', 'nuke', 'ban', 'face', 'ocean', 'superiority', 'unconditional', 'surrender', 'next', 'putin', 'game', 'set', 'match', 'release', 'hostage']",1,1
@@ -4631,7 +4617,6 @@ id,keyword,location,text,target,mean
 7408,obliterated,#freegucci,"['bother', 'call', 'texting', 'phone', 'obliterate', 'miss', 'call', 'message']",0,0
 7410,obliterated,Tennessee,"['wackoes', 'like', 'michelebachman', 'predict', 'world', 'soon', 'obliterate', 'burning', 'firey', 'inferno', 'accept', 'globalwarming', 'hello']",0,0
 7412,obliterated,"Waterloo, ON","['dude', 'obliterate', 'meek', 'mill', 'dont', 'judge', 'book', 'cover']",0,0
-7413,obliterated,,"['drunk', 'meal', 'cook', 'totally', 'obliterate']",0,0
 7414,obliterated,The dark,"['come', 'fuck', 'move', 'entire', 'existence', 'would', 'obliterate']",0,0
 7416,obliterated,,"['destroyed', 'zimmerman', 'fan', 'club', 'twitter', 'obliterate', 'renewsit', 'reduce', 'sock', 'acc']",0,0
 7418,obliterated,"Wynne, AR","['kid', 'remember', 'hearing', 'rule', 'day', 'wo', 'defense', 'strip', 'brock', 'obliterate']",0,0
@@ -4850,7 +4835,6 @@ id,keyword,location,text,target,mean
 7793,police,Los Angeles ,"['south', 'gate', 'police', 'officer', 'huntington', 'park', 'officer', 'arrest', 'child', 'abuse', 'investigation', 'boot', 'camp']",0,0
 7797,quarantine,missouri USA,"['reddit', 'quarantine', 'onlinecommunities', 'reddit', 'amageddon', 'freespeech', 'business']",1,1
 7800,quarantine,South africa,"['reddit', 'quarantine', 'offensive', 'content', 'technology', 'technews', 'puledo', 'tech', 'update']",0,0
-7801,quarantine,Bucharest,"['reddit', 'update', 'content', 'policy', 'promise', 'quarantine', 'extremely', 'offensive', 'community']",1,0
 7803,quarantine,"Mumbai, Maharashtra","['rt', 'skanndtyagi', 'wire', 'reddit', 'quarantine', 'offensive', 'content']",0,0
 7807,quarantine,Area 8 ,"['update', 'still', 'eat', 'since', 'still', 'clean', 'dry', 'lot', 'fill', 'water', 'quarantine', 'may', 'pas']",0,0
 7809,quarantine,,"['check', 'reddit', 'quarantine', 'offensive', 'content']",0,0
@@ -4868,8 +4852,6 @@ id,keyword,location,text,target,mean
 7840,quarantine,"San Diego, CA","['love', 'chicago', 'much', 'game', 'pink', 'eye', 'sit', 'design', 'quarantine', 'dark']",0,0
 7847,quarantined,,"['top', 'link', 'reddit', 'new', 'content', 'policy', 'go', 'effect', 'many', 'horrible', 'subreddits', 'ban', 'quarantine']",0,0
 7848,quarantined,,"['quarantine', 'little', 'corner', 'bc', 'sick', 'office', 'work', 'pile', 'need', 'kinda', 'day']",0,0
-7849,quarantined,"Cumming, GA","['reddit', 'new', 'content', 'policy', 'go', 'effect', 'many', 'horrible', 'subreddits', 'ban', 'quarantine']",0,0
-7851,quarantined,South Africa,"['hot', 'reddit', 'new', 'content', 'policy', 'go', 'effect', 'many', 'horrible', 'subreddits', 'ban', 'quarantine', 'prebreak', 'best']",0,0
 7852,quarantined,San Francisco,"['official', 'alabama', 'home', 'quarantine', 'possible', 'ebola', 'case']",1,1
 7857,quarantined,,"['go', 'ebola', 'run', 'life', 'aaarrrgghhh']",1,1
 7861,quarantined,,"['fuck', 'yes', 'antipozi', 'quarantine', 'trigger', 'cucks']",0,0
@@ -5209,7 +5191,6 @@ id,keyword,location,text,target,mean
 8478,screamed,"m3, k, a, d","['never', 'scream', 'loud']",0,0
 8480,screamed,pissing off antis,"['scream', 'whats', 'chonce']",0,0
 8483,screamed,'SAN ANTONIOOOOO',"['scream', 'top', 'lung', 'say', 'guy', 'would', 'come', 'back', 'keep', 'promise', 'addtexastonext', 'dtour']",0,0
-8484,screamed,,['scream'],0,0
 8486,screamed,sisterhood,"['literally', 'walk', 'concert', 'scream', 'soul', 'bless']",0,0
 8487,screamed,3000 miles from everyone,"['scream', 'fuck', 'hond']",0,0
 8490,screamed,with Doflamingo,"['kinda', 'scream', 'gt', 'lt']",0,0
@@ -5999,7 +5980,6 @@ id,keyword,location,text,target,mean
 9765,trapped,10 Steps Ahead.  Cloud 9,"['bomb', 'head', 'explosive', 'decision', 'dat', 'produce', 'dead', 'child', 'dead', 'body', 'trap', 'tween', 'building', 'day', 'september']",1,1
 9766,trapped,central chazifornia,"['salute', 'kid', 'still', 'trap', 'adult', 'body']",0,0
 9769,trapped,,"['die', 'get', 'teleport', 'somewhere', 'middle', 'ocean', 'stay', 'trap', 'unless', 'decides']",0,0
-9770,trapped,,"['hollywood', 'movie', 'trap', 'miner', 'release', 'chile']",0,0
 9771,trapped,,"['hollywood', 'movie', 'trap', 'miner', 'release', 'chile', 'zippednews']",0,0
 9772,trapped,New York City,"['billionaire', 'plan', 'free', 'half', 'billion', 'dollar', 'trap', 'venezuela', 'two', 'year', 'report']",0,0
 9775,trapped,????s ?? ????Ìø????Ì¡a,"['eudrylantiqua', 'hollywood', 'movie', 'trap', 'miner', 'release', 'chile', 'holly', 'eudrylantiqua']",1,1
@@ -6497,7 +6477,6 @@ id,keyword,location,text,target,mean
 10541,windstorm,,"['texas', 'seek', 'comment', 'rule', 'change', 'windstorm', 'insurer', 'insurance']",0,0
 10543,windstorm,,"['ij', 'texas', 'seek', 'comment', 'rule', 'change', 'windstorm', 'insurer']",1,1
 10544,windstorm,"Victoria, BC","['look', 'outside', 'windstorm', 'niiiice']",1,1
-10545,windstorm,,"['texas', 'seek', 'comment', 'rule', 'change', 'windstorm', 'insurer']",1,0
 10546,windstorm,Georgia ? Tennessee,"['breathe', 'sound', 'like', 'windstorm', 'haha', 'cool']",0,0
 10548,windstorm,,"['windstorm', 'wsvr', 'cover', 'hull', 'runabout', 'boat', 'include', 'euro', 'style', 'wi']",0,0
 10550,windstorm,"Lagos, Nigeria","['nema', 'ekiti', 'distribute', 'relief', 'material', 'affected', 'victim', 'rain', 'windstorm', 'disaster', 'ode', 'ekiti', 'gbonyin', 'lga']",1,1
