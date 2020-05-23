@@ -622,7 +622,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 1054,bleeding,,"['head', 'like', 'yo', 'nose', 'bleeding']",0,0,0,0,0,0
 1057,bleeding,,"['bleeding', 'silence', 'feel', 'safer', 'violence']",0,0,0,0,0,0
 1058,bleeding,"Island Lake, IL","['fell', 'someone', 'back', 'hit', 'head', 'concrete', 'bleeding', 'shit']",0,0,0,0,0,0
-1061,bleeding,"Live Oak, TX","['yes', 'bleeding', 'heart', 'liberal']",1,0,1,1,0,0
+1061,bleeding,"Live Oak, TX","['yes', 'bleeding', 'heart', 'liberal']",1,0,0,1,0,0
 1062,bleeding,,"['deadpool', 'already', 'one', 'favourite', 'marvel', 'character', 'know', 'wear', 'red', 'suit', 'bad', 'guy', 'tell', 'bleeding']",0,0,0,0,0,0
 1065,bleeding,"Gages Lake, IL","['defs', 'stop', 'bleeding']",1,0,0,1,0,0
 1066,bleeding,,"['know', 'bleeding', 'heart', 'wannabe', 'pickup', 'artist']",0,0,0,0,0,0

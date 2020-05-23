@@ -107,7 +107,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 357,annihilation,"Yeezy Taught Me , NV","['please', 'share', 'sign', 'petition', 'save', 'wild', 'horse', 'arizona']",0,0,0,0,0,0
 359,annihilation,Colorado,"['national', 'park', 'service', 'tonto', 'national', 'forest', 'stop', 'annihilation', 'salt', 'river', 'wild', 'horse', 'via']",0,0,1,1,1,1
 362,annihilation,United States,"['new', 'soul', 'punish', 'annihilation']",0,0,0,0,0,0
-366,annihilation,High Desert,"['late', 'update', 'salt', 'river', 'wild', 'horse', 'round', 'via']",0,0,1,1,1,1
+366,annihilation,High Desert,"['late', 'update', 'salt', 'river', 'wild', 'horse', 'round', 'via']",0,0,1,0,1,1
 367,annihilation,"Plovdiv, Bulgaria","['national', 'park', 'service', 'tonto', 'national', 'forest', 'stop', 'annihilation', 'salt', 'river', 'wild', 'horse', 'via']",0,0,1,1,1,1
 369,annihilation,California,"['national', 'park', 'service', 'tonto', 'national', 'forest', 'stop', 'annihilation', 'salt', 'river', 'wild', 'horse', 'via']",0,0,1,1,1,1
 373,annihilation,"Rhode Island, USA","['silent', 'planet', 'print', 'annihilation', 'audio']",0,0,0,0,0,0
@@ -280,7 +280,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 909,bioterrorism,,"['anthony', 'kimery', 'discus', 'bioterrorism', 'syfy', 'channel', 'joe', 'rogan', 'question', 'everything']",0,0,0,0,0,0
 910,bioterrorism,,"['blks', 'amp', 'whts', 'collude', 'take', 'wht', 'auth', 'hostage', 'amp', 'make', 'look', 'blk', 'bioterrorism', 'amp', 'use', 'lgl', 'org', 'idis', 'id', 'still']",0,0,1,1,1,1
 913,bioterrorism,Alaska,"['uganda', 'see', 'front', 'line', 'bioterrorism', 'fight']",0,0,1,0,0,1
-914,bioterrorism,"Capitol Hill, Washington","['ppl', 'living', 'hiv', 'charge', 'aggravate', 'assault', 'bioterrorism', 'thing', 'low', 'risk', 'transmission', 'hivisnotacrime']",0,0,1,0,1,1
+914,bioterrorism,"Capitol Hill, Washington","['ppl', 'living', 'hiv', 'charge', 'aggravate', 'assault', 'bioterrorism', 'thing', 'low', 'risk', 'transmission', 'hivisnotacrime']",0,0,1,1,1,1
 917,bioterrorism,"Fargo, ND | North of Normal ","['study', 'anthrax', 'bioterrorism', 'carpediem']",0,0,1,0,1,1
 918,bioterrorism,,"['blks', 'amp', 'whts', 'collude', 'take', 'wht', 'auth', 'hostage', 'amp', 'make', 'look', 'blk', 'bioterrorism', 'amp', 'use', 'lgl', 'org', 'idis', 'id', 'still']",0,0,1,1,1,1
 920,bioterrorism,,"['bioterrorism', 'guideline', 'medical', 'public', 'health', 'management', 'donald', 'hen']",0,0,1,0,0,1
@@ -582,7 +582,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 1884,burning,,"['wow', 'legion', 'slouch', 'towards', 'broken', 'isle', 'warlord', 'draenor', 'close', 'enough', 'burning', 'crusad']",0,0,1,0,0,0
 1891,burning,Los Angeles/ Las Vegas/ Boston,"['lead', 'killer', 'workout', 'today', 'core', 'burning', 'gymtime', 'worktime', 'auditiontime', 'roccotime', 'nob']",0,0,0,0,0,0
 1894,burning,gateway regional hs,"['peddle', 'floorboard', 'end', 'four', 'door', 'burning', 'backroad', 'song', 'park', 'pile', 'baby', 'watch', 'step']",0,0,0,0,0,0
-1896,burning,,"['burning', 'bridge', 'forte']",0,0,1,1,0,1
+1896,burning,,"['burning', 'bridge', 'forte']",0,0,1,0,0,1
 1902,burning,daily ? 18 ? ?,"['rt', 'real', 'burn', 'book', 'entry', 'ca', 'fuck', 'place', 'always', 'burning']",0,0,0,0,0,0
 1903,burning,,"['fear', 'fever', 'feel', 'feel', 'fire', 'burning', 'belo', 'ooow', 'go', 'trick', 'ya', 'swallow', 'ooo', 'ole', 'mtvhottest', 'justin', 'bieber']",0,0,0,0,0,0
 1904,burning,"TÌÁchira, Venezuela","['burning', 'legion', 'return']",0,0,0,0,0,0
@@ -619,7 +619,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 2011,casualties,Ellixton London's 33rd Borough,"['warfighting', 'robot', 'could', 'reduce', 'civilian', 'casualty', 'call', 'ban', 'premature']",0,1,1,1,1,1
 2013,casualties,,"['let', 'hope', 'concert', 'end', 'zero', 'casualty', 'amen']",0,0,0,0,0,0
 2018,casualties,,"['american', 'weapon', 'support', 'fuel', 'bloody', 'air', 'war', 'yemen']",0,0,1,1,1,1
-2021,casualties,,"['woman', 'child', 'casualty', 'afghan', 'violence']",0,0,1,0,1,1
+2021,casualties,,"['woman', 'child', 'casualty', 'afghan', 'violence']",0,0,1,1,1,1
 2025,casualties,"Auckland, New Zealand","['fair', 'enough', 'change', 'always', 'unfortunate', 'casualty', 'like', 'utilises', 'welly', 'amp', 'aucklnd', 'see']",0,0,0,0,0,0
 2029,casualties,Ngayogyakarta Hadiningrat ,"['memorial', 'day', 'year', 'hiroshima', 'nagasaki', 'august', 'wth', 'total', 'casualty', 'god', 'forgive']",0,0,1,1,1,1
 2030,casualties,Worldwide,"['warfighting', 'robot', 'could', 'reduce', 'civilian', 'casualty', 'call', 'ban', 'premature']",0,1,1,1,1,1
@@ -892,7 +892,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 2938,danger,,"['allen', 'west', 'obama', 'clear', 'present', 'danger', 'republic']",0,0,0,0,0,1
 2940,danger,N 32å¡39' 0'' / W 97å¡16' 0'',"['say', 'put', 'patient', 'life', 'danger', 'time', 'whats', 'happen', 'like', 'big', 'violation', 'ppe']",0,0,0,0,0,0
 2949,danger,,"['lot', 'business', 'operate', 'outskirt', 'amp', 'never', 'feel', 'danger']",0,0,0,0,0,0
-2951,danger,"Brinscall, England","['happy', 'receive', 'text', 'parasite', 'danger', 'transplantee', 'amp', 'virus', 'kill', 'kidney']",0,0,0,0,0,0
+2951,danger,"Brinscall, England","['happy', 'receive', 'text', 'parasite', 'danger', 'transplantee', 'amp', 'virus', 'kill', 'kidney']",0,0,0,1,0,0
 2958,dead,it was yesterday :(,"['last', 'retweet', 'hope', 'drop', 'dead']",0,0,0,0,0,0
 2961,dead,U.S.A,"['thought', 'dead', 'google', 'glass', 'get', 'second', 'come', 'though', 'consider', 'epic', 'failure', 'accord', 'maker', 'recent', 'patent']",0,0,0,0,0,0
 2962,dead,"South Carolina, USA",['dead'],0,0,0,0,0,1
@@ -1086,7 +1086,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 3574,desolate,Cardiff/London/NYC/Warwick,"['desolate', 'idea', 'ever', 'get', 'badgeofhonour']",0,0,0,0,0,0
 3576,desolate,,"['desolate', 'hope', 'part', 'battle', 'via']",0,0,0,0,0,0
 3577,desolate,Outreach Africa,"['horn', 'saw', 'beast', 'hate', 'harlet', 'make', 'desolate', 'naked', 'eat', 'flesh', 'burn', 'fire']",0,0,0,0,0,0
-3579,desolate,Macclesfield,"['ty', 'follow', 'go', 'brutally', 'abuse', 'desolate', 'amp', 'lose', 'lovely', 'mum', 'dy', 'murder', 'pls', 'rt']",0,0,1,1,1,0
+3579,desolate,Macclesfield,"['ty', 'follow', 'go', 'brutally', 'abuse', 'desolate', 'amp', 'lose', 'lovely', 'mum', 'dy', 'murder', 'pls', 'rt']",0,0,1,0,1,0
 3580,desolate,Florida,"['search', 'desolate', 'part', 'beach', 'cell', 'service', 'mile', 'away', 'car']",0,0,1,0,1,1
 3586,desolate,Birmingham,"['feel', 'desolate', 'take', 'quiz']",0,0,0,0,0,0
 3590,desolate,"Los Angeles, CA","['recall', 'cp', 'australia', 'blight', 'desolate', 'corporate']",0,0,0,0,0,0
@@ -1099,7 +1099,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 3614,desolation,LanÌ¼s,"['want', 'free', 'desolation', 'despair']",0,0,0,0,0,0
 3615,desolation,Quezon City,"['hobbit', 'desolation', 'smaug', 'atm']",0,0,0,0,0,0
 3616,desolation,"Medford, NJ","['watch', 'desolation', 'smaug', 'always', 'love', 'catch', 'cameo', 'caught', 'jackson', 'begin', 'colbert']",0,0,0,0,0,0
-3620,desolation,"Sydney, Australia","['kid', 'go', 'school', 'amidst', 'desolation', 'earthquake', 'aftermath', 'love', 'olympus']",0,0,0,1,0,0
+3620,desolation,"Sydney, Australia","['kid', 'go', 'school', 'amidst', 'desolation', 'earthquake', 'aftermath', 'love', 'olympus']",0,0,0,0,0,0
 3622,desolation,,"['hey', 'girl', 'must', 'hobbit', 'part', 'two', 'desolation', 'smaug', 'interestud', 'see', 'sorry']",0,0,0,0,0,0
 3624,desolation,#Global,"['nowplaying', 'lamb', 'god', 'desolation']",0,0,0,0,0,0
 3630,desolation,,"['see', 'fire', 'ed', 'sheeran', 'hobbit', 'desolation', 'smaug', 'cover', 'ja', 'via']",0,0,0,0,0,0
@@ -1191,7 +1191,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 3915,devastated,,"['obama', 'declares', 'disaster', 'typhoon', 'devastate', 'saipan', 'obama', 'sign', 'disaster', 'declaration', 'northern', 'marians']",0,1,1,1,1,1
 3918,devastated,,"['thanks', 'yes', 'definitely', 'something', 'affect', 'men', 'well', 'husband', 'devastate']",0,0,0,0,0,0
 3920,devastated,,"['obama', 'declares', 'disaster', 'typhoon', 'devastate', 'saipan', 'obama', 'sign', 'disaster', 'declaration', 'northern', 'marians']",0,1,1,1,1,1
-3925,devastated,south wales valleys,"['omg', 'cant', 'believe', 'kill', 'ross', 'favourite', 'character', 'aaron', 'im', 'devastate', 'top', 'act']",0,0,0,0,0,0
+3925,devastated,south wales valleys,"['omg', 'cant', 'believe', 'kill', 'ross', 'favourite', 'character', 'aaron', 'im', 'devastate', 'top', 'act']",0,0,0,1,0,0
 3928,devastated,,"['super', 'bitchy', 'yesterday', 'cause', 'felt', 'like', 'pop', 'bitchy', 'perla', 'play', 'perla', 'devastate']",0,0,0,0,0,0
 3929,devastated,,"['actually', 'see', 'hunter', 'hayes', 'lady', 'antebellum', 'perform', 'begin', 'live', 'devastate', 'person']",0,0,0,0,0,0
 3930,devastated,Dhaka,"['obama', 'declares', 'disaster', 'typhoon', 'devastate', 'saipan', 'obama', 'sign', 'disaster', 'declaration', 'northern', 'marians']",0,1,1,1,1,1
@@ -1382,7 +1382,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 4554,emergency%20plan,,"['calgary', 'take', 'another', 'beating', 'summer', 'storm', 'city', 'activates', 'emergency', 'plan']",0,0,1,1,1,1
 4555,emergency%20plan,,"['sri', 'lanka', 'emergency', 'line', 'busy', 'past', 'min', 'suppose', 'need', 'plan', 'emergency', 'well', 'sl', 'rt']",0,0,0,0,0,0
 4558,emergency%20plan,"Vancouver, Canada","['calgary', 'take', 'another', 'beating', 'summer', 'storm', 'city', 'activates', 'emergency', 'plan', 'another', 'day', 'watch']",0,0,1,1,1,1
-4559,emergency%20plan,"Paonia, Colorado","['spoke', 'caleen', 'sisk', 'shastadam', 'get', 'fund', 'cali', 'emergency', 'drought', 'act', 'plan', 'story', 'wfocus', 'winnemem']",0,0,1,1,1,1
+4559,emergency%20plan,"Paonia, Colorado","['spoke', 'caleen', 'sisk', 'shastadam', 'get', 'fund', 'cali', 'emergency', 'drought', 'act', 'plan', 'story', 'wfocus', 'winnemem']",0,0,1,0,1,1
 4560,emergency%20plan,"Tampa, Florida","['new', 'blog', 'post', 'emergency', 'response', 'plan', 'help', 'employee', 'get', 'back', 'productive', 'work']",0,0,0,0,0,0
 4566,emergency%20plan,"Houston, Texas","['emergency', 'response', 'plan', 'help', 'employee', 'get', 'back', 'productive', 'work']",0,0,0,0,0,0
 4570,emergency%20plan,the Great White North,"['picture', 'nenshi', 'amp', 'jeff', 'wonder', 'twin', 'municipal', 'emergency', 'plan', 'activate']",0,0,0,0,0,1
@@ -1437,7 +1437,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 4756,evacuate,Oregon & SW Washington,"['town', 'roosevelt', 'washington', 'order', 'evacuate', 'fire', 'worsens']",0,0,1,1,1,1
 4761,evacuated,"Arizona, USA","['yet', 'everywhere', 'else', 'except', 'like', 'shop', 'like', 'panda', 'evacuate', 'come', 'yet']",0,0,1,0,0,0
 4763,evacuated,Seattle/Snohomish/Redlands,"['update', 'evaucation', 'order', 'roosevelt', 'wa', 'lift']",0,0,1,0,1,1
-4764,evacuated,"Grand Rapids, Mich.","['chemical', 'spill', 'gr', 'water', 'plant', 'contain', 'water', 'supply', 'ok', 'ask', 'plant', 'official', 'happen']",0,0,1,0,1,1
+4764,evacuated,"Grand Rapids, Mich.","['chemical', 'spill', 'gr', 'water', 'plant', 'contain', 'water', 'supply', 'ok', 'ask', 'plant', 'official', 'happen']",0,0,1,1,1,1
 4767,evacuated,,"['house', 'evacuate', 'orakei', 'bank', 'collapse', 'tree', 'fell', 'strong', 'wind', 'auckland', 'nz']",0,0,1,0,1,1
 4772,evacuated,St. Louis,"['chesterfield', 'apartment', 'complex', 'evacuate', 'fire', 'stl']",0,0,1,1,1,1
 4776,evacuated,"Gold Coast, Australia","['gold', 'coast', 'tram', 'evacuate', 'due', 'broken', 'powerlines', 'local', 'newsbrokenemergency', 'servicesgold', 'coastpowerlinetramtr']",0,0,1,1,1,1
@@ -1787,7 +1787,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 6028,hazardous,Yellowknife NT Canada,"['drum', 'hazardous', 'waste', 'dumped', 'around', 'kodiak', 'island', 'someone', 'dumped', 'drum', 'hazardous', 'gt']",0,0,0,0,0,0
 6029,hazardous,Planet Earth,"['skinny', 'jean', 'hazardous', 'health']",0,0,1,0,1,1
 6035,heat%20wave,"Brooklyn, NY","['add', 'dumb', 'idea', 'beat', 'summer', 'heat', 'cheaply', 'brokelynati']",0,0,0,0,0,0
-6040,heat%20wave,"Chicago, IL","['new', 'post', 'diff', 'durden', 'heat', 'wave', 'ca', 'vote', 'blog', 'dhhj', 'hiphop', 'chicago', 'np']",0,0,0,0,0,0
+6040,heat%20wave,"Chicago, IL","['new', 'post', 'diff', 'durden', 'heat', 'wave', 'ca', 'vote', 'blog', 'dhhj', 'hiphop', 'chicago', 'np']",0,0,0,1,0,0
 6042,heat%20wave,"San Francisco, CA","['consider', 'heat', 'live', 'london', 'thought', 'heat', 'wave', 'like', 'hahaha']",0,0,1,0,1,0
 6044,heat%20wave,"For a healthier, happier YOU!","['never', 'really', 'see', 'olive', 'leaf', 'extract', 'help', 'rash', 'good', 'luck', 'humid', 'heat', 'wave', 'flare', 'take', 'olive', 'oli', 'extract']",0,0,0,0,0,0
 6046,heat%20wave,"vb/norfolk,va","['yeah', 'actually', 'whole', 'week', 'heat', 'wave']",0,0,1,1,1,0
@@ -1884,7 +1884,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 6333,hostage, Cairo,"['video', 'say', 'isi', 'threatens', 'kill', 'croatian', 'hostage', 'oil', 'worker', 'egypt', 'release', 'female', 'prisoner']",0,0,1,1,1,1
 6351,hostages,Brentwood uk,"['militant', 'overpower', 'hostage', 'attack']",0,0,1,0,0,1
 6352,hostages,france,"['hot', 'specially', 'modify', 'land', 'stadium', 'rescue', 'hostage', 'iran', 'prebreak', 'best']",0,1,1,1,1,1
-6353,hostages,,"['put', 'manorial', 'shape', 'gnocchi', 'near', 'thine', 'hostage', 'fortune', 'rbpk']",0,0,0,1,0,0
+6353,hostages,,"['put', 'manorial', 'shape', 'gnocchi', 'near', 'thine', 'hostage', 'fortune', 'rbpk']",0,0,0,0,0,0
 6357,hostages,China,"['hot', 'specially', 'modify', 'land', 'stadium', 'rescue', 'hostage', 'iran', 'prebreak', 'best']",0,1,1,1,1,1
 6359,hostages,USA,"['iran', 'snctions', 'incl', 'miltary', 'bilno', 'inspctkps', 'hostagesthrosw', 'israel', 'gutrkps', 'nuke', 'site', 'hlps', 'nuke', 'get', 'zero']",0,0,0,0,0,1
 6360,hostages,India,"['ajmal', 'kasab', 'ii', 'hostage', 'mislead', 'terrorist', 'get', 'caught', 'alive']",0,0,1,0,1,1
@@ -1899,13 +1899,13 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 6401,hurricane,,"['like', 'hurricane', 'habor', 'next', 'slix', 'flag', 'get', 'like', 'ride', 'wavy', 'amp', 'hershey', 'park']",0,0,0,0,0,0
 6408,hurricane,"San Francisco, CA","['resident', 'artist', 'remember', 'aftermath', 'hurricane', 'katrina', 'artwork', 'wdsu', 'new', 'orleans', 'wdsu', 'new', 'orlean']",0,0,0,0,0,1
 6409,hurricane,,"['found', 'hurricane', 'brewing', 'thursday', 'lol']",0,0,0,0,0,1
-6411,hurricane,"San Antonio, TX","['preach', 'holy', 'spirit', 'holy', 'spirit', 'blow', 'atmosphere', 'piece', 'atmosphere', 'air', 'jar', 'hurricane']",0,0,1,0,1,0
+6411,hurricane,"San Antonio, TX","['preach', 'holy', 'spirit', 'holy', 'spirit', 'blow', 'atmosphere', 'piece', 'atmosphere', 'air', 'jar', 'hurricane']",0,0,1,1,1,0
 6419,hurricane,melbs 1/2 #rham,"['would', 'blow', 'kiss', 'kept', 'distance', 'would', 'send', 'hurricane', 'proof', 'existence']",0,0,1,1,1,0
 6424,hurricane,Hawaii,"['hurricane', 'guillermo', 'live', 'noaa', 'track', 'loop', 'wed', 'aug', 'th']",0,0,1,1,1,1
 6426,hurricane,"Astoria, NY","['express', 'rage', 'hurricane', 'sandy', 'lcoutofdoors']",0,0,1,1,1,1
 6428,hurricane,"Tuscumbia, AL","['thanks', 'bro']",0,0,0,0,0,0
 6431,hurricane,MS,"['happy', 'birthday', 'bro']",0,0,0,0,0,0
-6432,hurricane,Worldwide,"['brooklyn', 'site', 'get', 'million', 'undo', 'hurricane', 'sandy', 'toll']",0,0,1,0,1,1
+6432,hurricane,Worldwide,"['brooklyn', 'site', 'get', 'million', 'undo', 'hurricane', 'sandy', 'toll']",0,0,1,1,1,1
 6433,hurricane,Dublin ,['hurricane'],0,0,0,0,0,1
 6435,injured,bangalore,"['udhampur', 'terror', 'attack', 'militant', 'attack', 'police', 'post', 'spos', 'injured', 'suspect', 'militant', 'tonight', 'attack']",0,1,1,1,1,1
 6437,injured,"tacompton, washington ","['think', 'maybe', 'wait', 'til', 'preseason', 'game', 'case', 'somebody', 'get', 'injured']",0,0,0,0,0,0
@@ -2416,7 +2416,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 8075,rescue,U.S.A.   FEMA Region 5,"['last', 'chance', 'animal', 'rescue', 'new', 'post', 'animalrescue']",0,0,0,0,0,0
 8076,rescue,,"['notice', 'vet', 'rescue', 'kitty', 'thank', 'service']",0,0,0,0,0,0
 8077,rescue,,"['official', 'rescue', 'migrant', 'libya', 'body', 'found', 'fox', 'news', 'noagenda', 'mvdint']",0,0,1,1,1,1
-8078,rescue,"Chillicothe, OH","['kayak', 'kill', 'mom', 'grandma', 'come', 'rescue']",0,0,1,0,0,0
+8078,rescue,"Chillicothe, OH","['kayak', 'kill', 'mom', 'grandma', 'come', 'rescue']",0,0,1,1,0,0
 8080,rescue,,"['mtech', 'assist', 'open', 'rescue', 'pocket', 'knife', 'new', 'blue', 'mt', 'bl', 'zix']",0,0,0,0,0,0
 8082,rescue,USA,"['beauty', 'deal', 'lot', 'mixed', 'color', 'scissors', 'firstaid', 'princess', 'care', 'rescue', 'tr']",0,0,0,0,0,0
 8086,rescue,"Lexington, KY","['picture', 'worth', 'thousand', 'word', 'would', 'one', 'say', 'lexington', 'veterinarian', 'passion']",0,0,0,0,0,0
@@ -2645,7 +2645,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 8826,sirens,Bristol,"['sleep', 'siren', 'irrelevant']",0,0,0,0,0,0
 8827,sirens,Moreno City - Buenos Aires,"['hear', 'siren']",0,0,0,0,0,0
 8828,sirens,"Salem, Oregon","['ok', 'siren', 'speaker', 'system', 'chip', 'music', 'food', 'cart', 'fine', 'underskirt', 'light']",0,0,0,0,0,0
-8833,sirens,,"['fire', 'truck', 'siren', 'past', 'ten', 'minute', 'straight', 'come', 'go', 'must', 'huge', 'maybe', 'taco', 'bell', 'build', 'sonic', 'instead']",0,0,0,1,0,0
+8833,sirens,,"['fire', 'truck', 'siren', 'past', 'ten', 'minute', 'straight', 'come', 'go', 'must', 'huge', 'maybe', 'taco', 'bell', 'build', 'sonic', 'instead']",0,0,0,0,0,0
 8834,sirens,,"['sleep', 'siren', 'postcard', 'polaroid']",0,0,0,0,0,0
 8845,smoke,Franklinton - BR - Houston,"['smoke', 'sumn']",0,0,0,0,0,0
 8847,smoke,,"['try', 'smoke', 'get', 'taco', 'bell']",0,0,0,0,0,0
@@ -2693,7 +2693,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 8964,storm,424 N. FAIRFAX AVE. 90036,"['storm', 'amp', 'family', 'tonight']",0,0,1,0,1,1
 8975,storm,USA,"['ign', 'warcraft', 'inspire', 'mode', 'likely', 'come', 'hero', 'storm']",0,0,0,0,0,0
 8977,storm,,"['another', 'next', 'day', 'throwbackthursday', 'kinky', 'kristy', 'rehearse', 'storm', 'doinghashtagsright']",0,0,1,0,1,0
-8981,storm,Fairbanks Alaska,"['aurora', 'prediction', 'kp', 'ak', 'earth', 'status', 'low', 'storm']",0,0,1,0,0,0
+8981,storm,Fairbanks Alaska,"['aurora', 'prediction', 'kp', 'ak', 'earth', 'status', 'low', 'storm']",0,0,0,0,0,0
 8982,storm,Where is my mind?,"['dota', 'gt', 'hero', 'storm', 'gt', 'league', 'legend']",0,0,0,0,0,0
 8984,storm,North Coast of O-H-I-O,"['storm', 'roll', 'hilton', 'head', 'go', 'fun']",0,0,0,0,0,0
 8988,storm,Oman ,"['man', 'united', 'play', 'football', 'like', 'back', 'spain', 'passion', 'courage', 'endurance', 'ride', 'storm']",0,0,0,0,0,0
@@ -2851,7 +2851,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 9442,terrorism,Udaipur,"['cross', 'border', 'terrorism', 'pakistan', 'caught', 'red', 'hand', 'via']",0,1,1,1,1,1
 9443,terrorism,                           FLA,"['state', 'sponsor', 'terrorism']",0,0,1,1,0,1
 9444,terrorism,london,"['judge', 'consider', 'fate', 'child', 'young', 'two', 'amid', 'radicalisation', 'fear']",0,0,1,0,0,1
-9447,terrorism,"Toronto, Ontario","['brief', 'history', 'false', 'flag', 'terrorism', 'wake', 'world', 'via']",0,0,1,1,0,1
+9447,terrorism,"Toronto, Ontario","['brief', 'history', 'false', 'flag', 'terrorism', 'wake', 'world', 'via']",0,0,1,0,0,1
 9459,terrorism,??????,"['online', 'homeland', 'security', 'appraisal', 'pakistan', 'anti', 'terrorism', 'act']",0,0,0,0,0,0
 9461,terrorism,,"['truth', 'news', 'bbc', 'cnn', 'islam', 'truth', 'god', 'isi', 'terrorism', 'quran', 'lie']",0,0,1,1,0,1
 9462,terrorism,Citizen of the World,"['combat', 'fear', 'terrorismturn', 'tv', 'amp', 'veteran', 'peace', 'call', 'end', 'nato', 'vfp']",0,0,1,0,0,0
@@ -3032,7 +3032,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 10002,tsunami,"Louavul, KY","['drunk', 'bbmeg']",0,0,0,0,0,0
 10007,tsunami,http://t.co/mOY6lmu,"['help', 'support', 'victim', 'japanese', 'earthquake', 'pacific', 'tsunami', 'hope', 'japan', 'pray', 'japan']",0,0,1,1,1,1
 10015,twister,,"['many', 'son', 'would', 'parson', 'parse', 'parson', 'could', 'parse', 'son', 'popular', 'tongue', 'twister', 'among', 'religious', 'woodchuck']",0,0,0,0,0,0
-10019,twister,"Quezon, Philippines","['twister', 'hit', 'village', 'quezon', 'province', 'quezon', 'news']",0,0,1,1,0,1
+10019,twister,"Quezon, Philippines","['twister', 'hit', 'village', 'quezon', 'province', 'quezon', 'news']",0,0,0,1,0,1
 10022,twister,boca raton,"['tongue', 'twister']",0,0,0,0,0,0
 10024,twister,,"['seriously', 'though', 'otto', 'reggie', 'twister', 'sam', 'living', 'good', 'life', 'rocket', 'power']",0,0,0,0,0,0
 10026,twister,,"['play', 'twister', 'broken', 'arm', 'smartest', 'decision', 'make', 'recentlu']",0,0,0,0,0,0
@@ -3068,7 +3068,7 @@ id,keyword,location,text,target,KNN_prediction,LR_prediction,RF_prediction,SVC_p
 10155,upheaval,"Bentonville, Arkansas","['retailer', 'intend', 'survive', 'upheaval', 'retail', 'consumer']",0,0,0,0,0,0
 10158,violent%20storm,Philadelphia; World War I,"['august', 'violent', 'storm', 'strike', 'city', 'manayunk', 'flood', 'damage', 'sport', 'amp', 'war', 'news']",0,0,1,1,1,1
 10160,violent%20storm,,"['dramatic', 'video', 'show', 'plane', 'land', 'violent', 'storm']",0,1,1,1,1,1
-10161,violent%20storm,,"['word', 'violent', 'come', 'mind', 'food', 'poison', 'nothing', 'weather', 'storm', 'hour']",0,0,1,0,1,0
+10161,violent%20storm,,"['word', 'violent', 'come', 'mind', 'food', 'poison', 'nothing', 'weather', 'storm', 'hour']",0,0,1,1,1,0
 10162,violent%20storm,Shanatic/GGian/SRKian,"['kolkata', 'struck', 'cyclonic', 'storm', 'sumthng', 'big', 'go', 'happen', 'day', 'evng', 'heavy', 'rain', 'nd', 'violent', 'storm', 'approachng', 'god', 'help']",0,0,1,1,1,1
 10165,violent%20storm,Chicago,"['severe', 'weather', 'head', 'toward', 'chicago', 'area', 'brief', 'violent', 'storm', 'swept', 'chicago', 'area', 'sunday', 'af']",0,0,1,1,1,1
 10166,violent%20storm,United Kingdom,"['terrify', 'pov', 'footage', 'capture', 'violent', 'land', 'inside', 'passenger', 'jet', 'storm', 'amsterdam']",0,1,1,1,1,1
